@@ -1,3 +1,5 @@
+package com.dmec.dtree;
+
 public enum AttributeType{
 	NOMINAL,ORDINAL,CONTINUOUS;
 	

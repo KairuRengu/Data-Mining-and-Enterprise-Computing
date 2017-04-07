@@ -1,3 +1,5 @@
+package com.dmec.dtree;
+
 import java.util.HashMap;
 
 public class AttributeValueCounter{

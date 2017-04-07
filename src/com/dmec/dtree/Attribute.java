@@ -1,5 +1,9 @@
+package com.dmec.dtree;
+
 import java.util.TreeSet;
 import java.util.Set;
+
+
 public class Attribute{
 	private static final String AttributeStringDelim = ":";
 	private AttributeType type;
