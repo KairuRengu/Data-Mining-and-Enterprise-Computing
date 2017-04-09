@@ -230,4 +230,18 @@ angular.module('teamSelection').controller('TypeaheadCtrl', function($scope, $ht
     "simpleName": "Wizards",
     "location": "Washington"
   }];
+  $scope.list = [];
+      $scope.submit = function($http, $scope) {
+        if ($scope.teamA && $scope.teamB) {
+          $scope.list.push(this.teamA.simpleName);
+		  $scope.list.push(this.teamB.simpleName);
+		    $http({
+			  method  : 'POST',
+			  url     : '',
+			  data    : $.param($scope.list),  // pass in data as strings
+			  headers : { 'Content-Type': 'application/json' }  // set the headers so angular passing info as form data (not request payload)
+			 })
+        }
+		
+      };
 });
