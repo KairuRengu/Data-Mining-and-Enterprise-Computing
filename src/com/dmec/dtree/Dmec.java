@@ -8,13 +8,13 @@ public class Dmec {
 
     public static void main(String[] args) {
 
-        String trainingFilePath = "C:\\Users\\The Boss\\Documents\\GitHub\\Data-Mining-and-Enterprise-Computing\\test\\data2.txt"; // THIS WILL BE SERVER SIDE
-        String testingFilePath = "";
+        String trainingFilePath = "C:\\Users\\The Boss\\Documents\\GitHub\\Data-Mining-and-Enterprise-Computing\\test\\data2_train.txt"; // THIS WILL BE SERVER SIDE
+        String testingFilePath = "C:\\Users\\The Boss\\Documents\\GitHub\\Data-Mining-and-Enterprise-Computing\\test\\data2_test.txt";
         String outputFilePath = "output";
 
-        doCART(trainingFilePath, outputFilePath);
-        
-        //doCARTPrediction(testingFilePath);
+        //doCART(trainingFilePath, outputFilePath);
+
+        doCARTPrediction(testingFilePath, outputFilePath);
     }
 
     /**
@@ -26,7 +26,7 @@ public class Dmec {
      */
     public static void doCART(String trainingFilePath, String outputFilePath) {
         try {
-            DataSet trainingDataSet = new DataSet(trainingFilePath, ",", true);
+            DataSet trainingDataSet = new DataSet(trainingFilePath, ",");
             cart = new CARTandID3(trainingDataSet, "CART", outputFilePath);
 
         } catch (Exception ex) {
@@ -35,10 +35,11 @@ public class Dmec {
         }
     }
 
-    public static void doCARTPrediction(String testingFilePath) {
+    public static void doCARTPrediction(String testingFilePath, String modelFilePath) {
         try {
-            DataSet testDataSet = new DataSet(testingFilePath, ",", false);
-            DataSet classifiedDataSet1 = cart.classify(testDataSet);
+            DataSet testDataSet = new DataSet(testingFilePath, ","); // Create data set using test file
+            DecisionTree modelFileTree = new DecisionTree(modelFilePath); // Create dtree from modelFile
+            DataSet classifiedDataSet1 = modelFileTree.classify(testDataSet, testDataSet.getClassifyingAttr()); // Do classification
             classifiedDataSet1.printDataSet();
         } catch (Exception ex) {
             System.err.println("Failed classifying test set");

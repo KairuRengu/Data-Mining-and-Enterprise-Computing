@@ -1,0 +1,5 @@
+Edible
+Shape,Color,Odor
+C,B,2
+D,B,2
+C,W,2

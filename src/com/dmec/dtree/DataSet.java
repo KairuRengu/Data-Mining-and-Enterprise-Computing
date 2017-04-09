@@ -18,76 +18,66 @@ public class DataSet {
 
     /**
      * Initialize data set from data file
+     *
      * @param dataFilePath
      * @param delimiter
-     * @param isTrainingSet 
      */
-    public DataSet(String dataFilePath, String delimiter, boolean isTrainingSet) {
+    public DataSet(String dataFilePath, String delimiter) {
         this.dataSet = new ArrayList<HashMap<String, Object>>();
         this.stagedLeafs = new HashMap();
-        insertData(dataFilePath, delimiter, isTrainingSet);
+        insertData(dataFilePath, delimiter);
     }
-    
-    /**
-     * Initialize data set from dtree model file
-     * @param modelFilePath 
-     */
-    public DataSet(String modelFilePath) {
-        
-    }
-    
+
     public String getClassifyingAttr() {
-    	return this.classifyingAttr;
+        return this.classifyingAttr;
     }
-    
+
     /**
-     * first line is classifying attribute, second is list of attributes, rest are data
-     * 
-     * @param isTrainingSet
+     * first line is classifying attribute, second is list of attributes, rest
+     * are data
+     *
      * @param dataFilePath
      * @param delimiter
      */
-    private void insertData(String dataFilePath, String delimiter, boolean isTrainingSet) {
-		BufferedReader br;
-		try {
-			br = new BufferedReader(new FileReader(dataFilePath));
-			
-	        
-	        String line;
-	        
-	        if (isTrainingSet) {
-		        // get classifying attribute
-		        if ((line = br.readLine()) != null) {
-		        	this.classifyingAttr = line;
-		        	System.out.println("Classifying attr name: " + this.classifyingAttr);
-		        }
-	        }
-		        
-	        // Get attribute names
-	        if ((line = br.readLine()) != null) {
-	        	this.attributeNames = new ArrayList(Arrays.asList(line.split(delimiter)));
-	        }
-	        System.out.println("Attr names: " + this.attributeNames);
-	        
-	        
-	        // Get data rows
-	        while ((line = br.readLine()) != null) {
-	        	ArrayList<String> tempRow = new ArrayList(Arrays.asList(line.split(delimiter)));
-	        	HashMap<String, Object> dataRow = new HashMap();
-	        	
-	        	for (int i = 0; i < tempRow.size(); i ++) {
-	        		// Insert (attrName, data-value)
-	        		dataRow.put(this.attributeNames.get(i), tempRow.get(i));
-	        	}
-	            
-	            this.dataSet.add(dataRow);
-	        }
-		} catch (IOException e) {
-			System.err.println("Failed while inserting data into dataSet object");
-			System.exit(1);
-		}
+    private void insertData(String dataFilePath, String delimiter/*, boolean isTrainingSet*/) {
+        BufferedReader br;
+        try {
+            br = new BufferedReader(new FileReader(dataFilePath));
+
+            String line;
+
+            //if (isTrainingSet) {
+                // get classifying attribute
+                if ((line = br.readLine()) != null) {
+                    this.classifyingAttr = line;
+                    System.out.println("Classifying attr name: " + this.classifyingAttr);
+                }
+            //}
+
+            // Get attribute names
+            if ((line = br.readLine()) != null) {
+                this.attributeNames = new ArrayList(Arrays.asList(line.split(delimiter)));
+            }
+            System.out.println("Attr names: " + this.attributeNames);
+
+            // Get data rows
+            while ((line = br.readLine()) != null) {
+                ArrayList<String> tempRow = new ArrayList(Arrays.asList(line.split(delimiter)));
+                HashMap<String, Object> dataRow = new HashMap();
+
+                for (int i = 0; i < tempRow.size(); i++) {
+                    // Insert (attrName, data-value)
+                    dataRow.put(this.attributeNames.get(i), tempRow.get(i));
+                }
+
+                this.dataSet.add(dataRow);
+            }
+        } catch (IOException e) {
+            System.err.println("Failed while inserting data into dataSet object");
+            System.exit(1);
+        }
     }
-    
+
     public void stageLeaf(String attrName, Object attrValue, Object classValue) {
         // instantiate HashMap for the attrName the first time
         if (this.stagedLeafs.get(attrName) == null) {
@@ -95,11 +85,11 @@ public class DataSet {
         }
         this.stagedLeafs.get(attrName).put(attrValue, classValue);
     }
-    
+
     public void clearStagedLeafs() {
         this.stagedLeafs = new HashMap();
     }
-    
+
     public HashMap<Object, Object> getStagedLeafValue(String attrName) {
         return this.stagedLeafs.get(attrName);
     }
@@ -123,7 +113,7 @@ public class DataSet {
             this.attributeNames.add(entry.getKey());
         }
     }
-    
+
     public void addAttrName(String attrName) {
         this.attributeNames.add(attrName);
     }
@@ -150,14 +140,13 @@ public class DataSet {
     public ArrayList<String> getattributeNames() {
         return this.attributeNames;
     }
-    
-    
+
     public void printDataSet() {
         for (String attrName : this.attributeNames) {
             System.out.print(attrName + "   ");
         }
         System.out.println("\n-------------------------------");
-        
+
         for (HashMap<String, Object> row : this.dataSet) {
             for (Map.Entry<String, Object> entry : row.entrySet()) {
                 System.out.print(entry.getValue() + "   ");
