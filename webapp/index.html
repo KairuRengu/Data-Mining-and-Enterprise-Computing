@@ -47,16 +47,18 @@
 </script>
   </head>
   <body>
-
-	<div class='container-fluid typeahead' ng-controller="TypeaheadCtrl">
-		<h4>Team A Selection</h4>
+	<form ng-submit="submit()" ng-controller="TypeaheadCtrl">
+	  <h4>Team A Selection</h4>
 		<pre>Model: {{teamA | json}}</pre>
 		<input type="text" ng-model="teamA" placeholder="Type a team name here" uib-typeahead="team as team.teamName for team in teams | filter:{teamName:$viewValue}"  class="form-control" action="something.html">
 		<div></div>
-		
-		<h4>Team B Selection</h4>
+	  
+	  
+	  <h4>Team B Selection</h4>
 		<pre>Model: {{teamB | json}}</pre>
 		<input type="text" ng-model="teamB" placeholder="Type a team name here" uib-typeahead="team as team.teamName for team in teams | filter:{teamName:$viewValue}"  class="form-control" action="something.html">
-	</div>
+	  <input type="submit" id="submit" value="Submit" />
+	  <pre>list={{list}}</pre>
+	</form>
   </body>
 </html>
