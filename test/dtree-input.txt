@@ -1,0 +1,8 @@
+/*
+ * File name will be <yyyy-mm-dd>.<winning-team>.<losing-team>
+ * 
+ */
+name,playerNumber,minutesPlayed,points,+/-,fieldGoalPercent,rebounds,team
+<full-name>,<player#>,<##:##>,<##>,<+/->,<##>,<##>,<team>
+<full-name>,<player#>,<##:##>,<##>,<+/->,<##>,<##>,<team>
+<full-name>,<player#>,<##:##>,<##>,<+/->,<##>,<##>,<team>
