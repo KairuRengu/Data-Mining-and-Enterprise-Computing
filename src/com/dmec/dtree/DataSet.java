@@ -17,7 +17,7 @@ public class DataSet {
     private String classifyingAttr;
 
     /**
-     * Initialize data set
+     * Initialize data set from data file
      * @param dataFilePath
      * @param delimiter
      * @param isTrainingSet 
@@ -26,6 +26,14 @@ public class DataSet {
         this.dataSet = new ArrayList<HashMap<String, Object>>();
         this.stagedLeafs = new HashMap();
         insertData(dataFilePath, delimiter, isTrainingSet);
+    }
+    
+    /**
+     * Initialize data set from dtree model file
+     * @param modelFilePath 
+     */
+    public DataSet(String modelFilePath) {
+        
     }
     
     public String getClassifyingAttr() {

@@ -94,6 +94,7 @@ public class CARTandID3 {
                 }
             }
             
+            System.out.println("Adding node to tree: " + nodeAttrName);
             addNodeToDecisionTree(nodeAttrName, minClassDist); // Also removes necessary rows from data set for the next branch
             System.out.println("***\n\n\n");
             
@@ -124,7 +125,7 @@ public class CARTandID3 {
      */
     private void addNodeToDecisionTree(String nodeAttrName, HashMap<Object, HashMap<Object, Integer>> minClassDist) {
         //System.out.println("Adding node " + nodeAttrName);
-        this.dTree.addNode(nodeAttrName);
+        this.dTree.addNode(nodeAttrName, false); // false because this is an attribute, not a classifier
         
         if (nodeAttrName == null) {
             return;
@@ -141,7 +142,7 @@ public class CARTandID3 {
         if ((stagedLeaf = this.data.getStagedLeafValue(nodeAttrName)) != null) {
             for (Map.Entry<Object, Object> leaf : stagedLeaf.entrySet()) {
                 //System.out.println("Adding leaf " + (String)leaf.getKey() + ", " + (String)leaf.getValue());
-                this.dTree.getCurNode().addChild(leaf.getKey(), (String)leaf.getValue(), false); //addChild(attrValue, classValue, takeBranch?)
+                this.dTree.getCurNode().addChild(leaf.getKey(), (String)leaf.getValue(), true, false); //addChild(attrValue, classValue, thisIsAClassifier, takeBranch?)
                 updateDataSetForLeafNode(nodeAttrName, leaf.getKey());
             }
         }
@@ -154,7 +155,7 @@ public class CARTandID3 {
             if (!this.dTree.getCurNode().hasChild(entry.getKey())) {
                 // Take the branch because need to add a node to it
                 //System.out.println("Adding empty branch for " + entry.getKey());
-                this.dTree.getCurNode().addChild(entry.getKey(), null, true); //addChild(branchValue, null (empty branch), takeBranch?)
+                this.dTree.getCurNode().addChild(entry.getKey(), null, true, true); //addChild(branchValue, null (empty branch), thisIsAClassifier, takeBranch?)
             }
         }
     }
@@ -406,7 +407,7 @@ public class CARTandID3 {
     		if (curNode.getNodeValue() == null) {
     			globalWriter.write("null," + branchValue + "\n");
     		} else {
-    			globalWriter.write(curNode.getNodeValue() + "," + branchValue + "\n");
+    			globalWriter.write(curNode.getNodeValue() + "," + branchValue + "," + curNode.isClassifer() + "\n");
     		}
 			
     		genOutputFile(curNode.getLeftNode(), curNode.getLeftBranchValue());

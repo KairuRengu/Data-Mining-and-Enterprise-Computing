@@ -9,19 +9,22 @@ public class Node {
     private final String value;
     private final HashMap<Object, Node> children; // <branchValue, node-with-attrValue>
     private Object curBranch = null;
+    private boolean isClassifier;
     
-    public Node(String attrName) {
+    public Node(String attrName, boolean isClassifier) {
         this.value = attrName;
         this.children = new HashMap();
+        this.isClassifier = isClassifier;
     }
     
     /**
      * 
      * @param attrName - attribute name for new child node
      * @param branchValue - value used to branch to the child node
+     * @param takeBranch
      */
-    public void addChild(Object branchValue, String attrName, boolean takeBranch) {
-        this.children.put(branchValue, new Node(attrName));
+    public void addChild(Object branchValue, String attrName, boolean isClassifier, boolean takeBranch) {
+        this.children.put(branchValue, new Node(attrName, isClassifier));
         //System.out.println("New child has just been added with key " + branchValue);
         if (takeBranch) {
             System.out.println("Taking branch " + branchValue);
@@ -54,6 +57,10 @@ public class Node {
     
     public boolean isLeaf() {
         return children.isEmpty();
+    }
+    
+    public boolean isClassifer() {
+        return this.isClassifier;
     }
     
     public String getNodeValue() {

@@ -45,8 +45,8 @@ public class DecisionTree {
         return testSet;
     }
     
-    public void addNode(String attrName) {
-        Node newNode = new Node(attrName);
+    public void addNode(String attrName, boolean isClassifier) {
+        Node newNode = new Node(attrName, isClassifier);
         
         
         // if curNode is null then root will be null so ignore this
