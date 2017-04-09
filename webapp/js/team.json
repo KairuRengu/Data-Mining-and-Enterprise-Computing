@@ -2,62 +2,62 @@
 	"teamA": {
 		"teamName": "Atlanta Hawks",
 		"players": {
-			"player1":{
-				"firstName":"first Name",
+			"player1": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player1Number",
-			}
-			"player2":{
-				"firstName":"first Name",
+				"playerNumber": "player1Number"
+			},
+			"player2": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player2Number",
-			}
-			"player3":{
-				"firstName":"first Name",
+				"playerNumber": "player2Number"
+			},
+			"player3": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player3Number",
-			}
-			"player4":{
-				"firstName":"first Name",
+				"playerNumber": "player3Number"
+			},
+			"player4": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player4Number",
-			}
-			"player5":{
-				"firstName":"first Name",
+				"playerNumber": "player4Number"
+			},
+			"player5": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player5Number",
+				"playerNumber": "player5Number"
 			}
-		} 
-	  }
-	  "teamA": {
+		}
+	},
+	"teamB": {
 		"teamName": "Toronto Raptors",
 		"players": {
-			"player1":{
-				"firstName":"first Name",
+			"player1": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player1Number",
-			}
-			"player2":{
-				"firstName":"first Name",
+				"playerNumber": "player1Number"
+			},
+			"player2": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player2Number",
-			}
-			"player3":{
-				"firstName":"first Name",
+				"playerNumber": "player2Number"
+			},
+			"player3": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player3Number",
-			}
-			"player4":{
-				"firstName":"first Name",
+				"playerNumber": "player3Number"
+			},
+			"player4": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player4Number",
-			}
-			"player5":{
-				"firstName":"first Name",
+				"playerNumber": "player4Number"
+			},
+			"player5": {
+				"firstName": "first Name",
 				"lastName": "last Name",
-				"playerNumber": "player5Number",
+				"playerNumber": "player5Number"
 			}
-		} 
-	  }
-	  
+		}
+	}
+
 }
