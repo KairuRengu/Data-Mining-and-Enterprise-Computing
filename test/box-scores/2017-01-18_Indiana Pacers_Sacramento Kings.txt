@@ -1,0 +1,2 @@
+Indiana Pacers,106,6,52.0,32,true
+Sacramento Kings,100,-6,48.6,36,false

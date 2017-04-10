@@ -1,0 +1,2 @@
+Memphis Grizzlies,86,-17,40.7,43,false
+Cleveland Cavaliers,103,17,45.7,46,true

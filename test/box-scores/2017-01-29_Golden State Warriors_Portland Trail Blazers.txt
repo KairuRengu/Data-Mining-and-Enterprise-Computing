@@ -1,0 +1,2 @@
+Golden State Warriors,113,2,45.6,39,true
+Portland Trail Blazers,111,-2,49.5,42,false

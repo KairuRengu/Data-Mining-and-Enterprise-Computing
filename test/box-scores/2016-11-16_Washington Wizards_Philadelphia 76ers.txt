@@ -1,0 +1,2 @@
+Washington Wizards,102,-7,41.8,40,false
+Philadelphia 76ers,109,7,54.5,41,true

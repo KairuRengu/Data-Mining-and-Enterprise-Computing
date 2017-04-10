@@ -1,0 +1,2 @@
+Washington Wizards,112,26,48.3,52,true
+Atlanta Hawks,86,-26,36.1,41,false

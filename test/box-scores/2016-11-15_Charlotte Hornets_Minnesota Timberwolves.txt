@@ -1,0 +1,2 @@
+Charlotte Hornets,115,7,53.8,37,true
+Minnesota Timberwolves,108,-7,42.7,43,false

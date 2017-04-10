@@ -1,0 +1,2 @@
+Charlotte Hornets,88,-8,33.0,53,false
+Boston Celtics,96,8,43.6,46,true

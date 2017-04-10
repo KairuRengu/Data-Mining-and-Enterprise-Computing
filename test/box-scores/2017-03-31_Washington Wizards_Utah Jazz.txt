@@ -1,0 +1,2 @@
+Washington Wizards,88,-7,40.2,45,false
+Utah Jazz,95,7,45.8,42,true

@@ -1,0 +1,2 @@
+Boston Celtics,106,-3,37.6,54,false
+Phoenix Suns,109,3,44.7,50,true

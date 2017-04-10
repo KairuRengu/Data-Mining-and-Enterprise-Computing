@@ -1,0 +1,2 @@
+Minnesota Timberwolves,95,-7,45.7,38,false
+Milwaukee Bucks,102,7,46.3,40,true

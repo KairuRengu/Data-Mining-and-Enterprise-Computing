@@ -1,0 +1,2 @@
+Sacramento Kings,104,-10,48.8,42,false
+San Antonio Spurs,114,10,50.0,43,true

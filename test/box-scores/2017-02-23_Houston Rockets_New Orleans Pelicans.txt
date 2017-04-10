@@ -1,0 +1,2 @@
+Houston Rockets,129,30,49.5,48,true
+New Orleans Pelicans,99,-30,41.9,44,false

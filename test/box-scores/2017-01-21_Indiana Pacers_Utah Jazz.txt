@@ -1,0 +1,2 @@
+Indiana Pacers,100,-9,50.6,36,false
+Utah Jazz,109,9,46.4,42,true

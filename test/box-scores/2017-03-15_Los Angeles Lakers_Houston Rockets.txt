@@ -1,0 +1,2 @@
+Los Angeles Lakers,100,-39,46.2,38,false
+Houston Rockets,139,39,54.9,50,true

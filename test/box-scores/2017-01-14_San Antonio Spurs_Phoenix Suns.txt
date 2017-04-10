@@ -1,0 +1,2 @@
+San Antonio Spurs,93,-16,41.4,49,false
+Phoenix Suns,109,16,48.4,50,true

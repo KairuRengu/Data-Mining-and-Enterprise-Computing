@@ -1,0 +1,2 @@
+Detroit Pistons,95,-22,44.3,44,false
+Chicago Bulls,117,22,58.8,36,true

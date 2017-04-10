@@ -1,0 +1,2 @@
+Toronto Raptors,82,-28,37.3,43,false
+San Antonio Spurs,110,28,55.1,43,true

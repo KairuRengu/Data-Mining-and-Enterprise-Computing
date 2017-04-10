@@ -1,0 +1,2 @@
+Brooklyn Nets,97,-15,40.4,42,false
+Utah Jazz,112,15,51.4,45,true

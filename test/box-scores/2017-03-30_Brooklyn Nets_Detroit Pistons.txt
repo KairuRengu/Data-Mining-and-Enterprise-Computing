@@ -1,0 +1,2 @@
+Brooklyn Nets,89,-1,38.0,46,false
+Detroit Pistons,90,1,41.9,53,true

@@ -1,0 +1,2 @@
+Dallas Mavericks,107,-10,53.8,29,false
+Denver Nuggets,117,10,56.3,41,true

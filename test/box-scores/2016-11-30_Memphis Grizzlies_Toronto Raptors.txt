@@ -1,0 +1,2 @@
+Memphis Grizzlies,105,-15,43.9,30,false
+Toronto Raptors,120,15,55.1,43,true

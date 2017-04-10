@@ -1,0 +1,2 @@
+Dallas Mavericks,94,2,40.2,46,true
+Orlando Magic,92,-2,43.0,50,false

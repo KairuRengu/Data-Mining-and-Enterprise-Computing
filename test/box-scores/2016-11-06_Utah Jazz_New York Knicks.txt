@@ -1,0 +1,2 @@
+Utah Jazz,114,5,50.7,34,true
+New York Knicks,109,-5,50.6,39,false

@@ -1,0 +1,2 @@
+Washington Wizards,112,-1,42.9,47,false
+Detroit Pistons,113,1,49.4,49,true

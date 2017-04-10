@@ -1,0 +1,2 @@
+Washington Wizards,107,13,50.6,45,true
+New Orleans Pelicans,94,-13,45.2,42,false

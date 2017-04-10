@@ -1,0 +1,2 @@
+Oklahoma City Thunder,80,-34,33.8,39,false
+Memphis Grizzlies,114,34,52.4,39,true

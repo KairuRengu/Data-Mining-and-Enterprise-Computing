@@ -1,0 +1,2 @@
+Charlotte Hornets,93,-9,32.9,41,false
+Philadelphia 76ers,102,9,47.4,38,true

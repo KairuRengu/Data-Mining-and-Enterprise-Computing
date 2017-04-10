@@ -1,0 +1,2 @@
+Golden State Warriors,119,6,55.8,41,true
+Detroit Pistons,113,-6,50.6,36,false

@@ -1,0 +1,2 @@
+Phoenix Suns,115,12,50.6,45,true
+Toronto Raptors,103,-12,39.8,35,false

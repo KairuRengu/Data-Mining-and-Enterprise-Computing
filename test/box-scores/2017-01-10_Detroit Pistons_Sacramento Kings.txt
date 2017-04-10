@@ -1,0 +1,2 @@
+Detroit Pistons,94,-6,43.9,35,false
+Sacramento Kings,100,6,43.8,45,true

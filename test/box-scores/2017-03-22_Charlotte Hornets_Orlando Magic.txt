@@ -1,0 +1,2 @@
+Charlotte Hornets,109,7,46.7,43,true
+Orlando Magic,102,-7,45.5,43,false

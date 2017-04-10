@@ -1,0 +1,2 @@
+Portland Trail Blazers,113,-7,52.4,50,false
+Detroit Pistons,120,7,43.3,48,true

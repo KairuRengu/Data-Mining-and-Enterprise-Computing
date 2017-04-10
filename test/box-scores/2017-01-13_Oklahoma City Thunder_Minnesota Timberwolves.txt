@@ -1,0 +1,2 @@
+Oklahoma City Thunder,86,-10,38.8,47,false
+Minnesota Timberwolves,96,10,45.3,42,true

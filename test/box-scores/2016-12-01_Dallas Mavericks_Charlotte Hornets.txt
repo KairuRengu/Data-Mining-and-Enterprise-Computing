@@ -1,0 +1,2 @@
+Dallas Mavericks,87,-10,37.2,41,false
+Charlotte Hornets,97,10,47.3,39,true

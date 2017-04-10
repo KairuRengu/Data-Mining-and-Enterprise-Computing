@@ -1,0 +1,2 @@
+Detroit Pistons,102,5,43.2,46,true
+Los Angeles Lakers,97,-5,43.4,50,false

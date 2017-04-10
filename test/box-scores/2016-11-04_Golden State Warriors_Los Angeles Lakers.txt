@@ -1,0 +1,2 @@
+Golden State Warriors,97,-20,45.3,40,false
+Los Angeles Lakers,117,20,47.4,51,true

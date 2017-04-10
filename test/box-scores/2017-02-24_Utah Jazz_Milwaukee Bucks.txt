@@ -1,0 +1,2 @@
+Utah Jazz,109,14,50.0,41,true
+Milwaukee Bucks,95,-14,43.2,35,false

@@ -1,0 +1,2 @@
+Los Angeles Lakers,108,-11,47.7,41,false
+Cleveland Cavaliers,119,11,51.7,44,true

@@ -1,0 +1,2 @@
+Houston Rockets,128,18,51.1,41,true
+Denver Nuggets,110,-18,44.2,54,false

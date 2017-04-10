@@ -1,0 +1,2 @@
+New York Knicks,95,-15,40.9,40,false
+Portland Trail Blazers,110,15,48.8,50,true

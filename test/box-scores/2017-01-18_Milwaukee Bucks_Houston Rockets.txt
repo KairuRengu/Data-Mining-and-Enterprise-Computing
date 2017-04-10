@@ -1,0 +1,2 @@
+Milwaukee Bucks,92,-19,39.8,50,false
+Houston Rockets,111,19,45.3,46,true

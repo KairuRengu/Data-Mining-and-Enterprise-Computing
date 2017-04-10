@@ -1,0 +1,2 @@
+Denver Nuggets,121,8,56.6,44,true
+Orlando Magic,113,-8,48.9,31,false

@@ -1,0 +1,2 @@
+New Orleans Pelicans,99,-8,46.4,42,false
+Chicago Bulls,107,8,42.6,63,true

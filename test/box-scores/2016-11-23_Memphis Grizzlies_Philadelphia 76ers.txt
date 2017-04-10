@@ -1,0 +1,2 @@
+Memphis Grizzlies,104,5,38.4,46,true
+Philadelphia 76ers,99,-5,37.6,56,false

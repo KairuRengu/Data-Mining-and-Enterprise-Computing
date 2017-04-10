@@ -1,0 +1,2 @@
+Golden State Warriors,102,-3,46.6,43,false
+Miami Heat,105,3,44.2,45,true

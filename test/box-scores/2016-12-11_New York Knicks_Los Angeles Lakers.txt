@@ -1,0 +1,2 @@
+New York Knicks,118,6,48.8,44,true
+Los Angeles Lakers,112,-6,47.7,41,false

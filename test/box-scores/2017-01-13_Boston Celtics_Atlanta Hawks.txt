@@ -1,0 +1,2 @@
+Boston Celtics,103,2,43.4,43,true
+Atlanta Hawks,101,-2,42.9,43,false

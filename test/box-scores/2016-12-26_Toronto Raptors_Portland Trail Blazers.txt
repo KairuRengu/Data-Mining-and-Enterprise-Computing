@@ -1,0 +1,2 @@
+Toronto Raptors,95,4,33.7,52,true
+Portland Trail Blazers,91,-4,42.2,54,false

@@ -1,0 +1,2 @@
+Houston Rockets,107,-10,44.0,42,false
+Portland Trail Blazers,117,10,47.8,41,true

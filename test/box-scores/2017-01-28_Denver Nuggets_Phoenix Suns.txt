@@ -1,0 +1,2 @@
+Denver Nuggets,123,11,-,48,true
+Phoenix Suns,112,-11,-,43,false

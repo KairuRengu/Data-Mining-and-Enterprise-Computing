@@ -1,0 +1,2 @@
+Milwaukee Bucks,98,-13,49.4,36,false
+Atlanta Hawks,111,13,52.5,37,true

@@ -1,0 +1,2 @@
+New York Knicks,101,-15,41.7,41,false
+Toronto Raptors,116,15,49.4,42,true

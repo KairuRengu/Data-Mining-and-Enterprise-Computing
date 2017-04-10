@@ -1,0 +1,2 @@
+Sacramento Kings,122,17,53.5,45,true
+Brooklyn Nets,105,-17,43.7,42,false

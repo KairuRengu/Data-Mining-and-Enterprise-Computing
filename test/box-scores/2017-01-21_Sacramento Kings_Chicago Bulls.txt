@@ -1,0 +1,2 @@
+Sacramento Kings,99,-3,44.0,40,false
+Chicago Bulls,102,3,41.0,48,true

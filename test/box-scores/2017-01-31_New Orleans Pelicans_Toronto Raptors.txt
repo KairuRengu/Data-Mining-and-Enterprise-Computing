@@ -1,0 +1,2 @@
+New Orleans Pelicans,106,-2,42.6,47,false
+Toronto Raptors,108,2,45.7,54,true

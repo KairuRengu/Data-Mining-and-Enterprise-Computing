@@ -1,0 +1,2 @@
+Houston Rockets,99,3,44.9,46,true
+Detroit Pistons,96,-3,41.4,39,false

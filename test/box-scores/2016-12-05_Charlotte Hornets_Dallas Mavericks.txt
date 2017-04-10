@@ -1,0 +1,2 @@
+Charlotte Hornets,109,8,50.6,53,true
+Dallas Mavericks,101,-8,41.6,35,false

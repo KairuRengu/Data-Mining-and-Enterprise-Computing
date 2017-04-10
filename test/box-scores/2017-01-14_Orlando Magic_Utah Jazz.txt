@@ -1,0 +1,2 @@
+Orlando Magic,107,-7,46.3,40,false
+Utah Jazz,114,7,49.4,44,true

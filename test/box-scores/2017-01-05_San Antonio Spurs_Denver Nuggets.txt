@@ -1,0 +1,2 @@
+San Antonio Spurs,109,-9,41.9,40,false
+Denver Nuggets,118,9,53.1,47,true

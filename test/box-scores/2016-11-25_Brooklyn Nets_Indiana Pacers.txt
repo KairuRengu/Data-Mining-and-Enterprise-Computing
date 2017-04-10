@@ -1,0 +1,2 @@
+Brooklyn Nets,97,-21,45.6,38,false
+Indiana Pacers,118,21,55.2,47,true

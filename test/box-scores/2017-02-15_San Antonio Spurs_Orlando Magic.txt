@@ -1,0 +1,2 @@
+San Antonio Spurs,107,28,47.2,50,true
+Orlando Magic,79,-28,39.5,33,false

@@ -1,0 +1,2 @@
+Denver Nuggets,106,-15,40.4,53,false
+Oklahoma City Thunder,121,15,48.3,49,true

@@ -1,0 +1,2 @@
+Indiana Pacers,95,-7,41.4,46,false
+New Orleans Pelicans,102,7,42.4,55,true

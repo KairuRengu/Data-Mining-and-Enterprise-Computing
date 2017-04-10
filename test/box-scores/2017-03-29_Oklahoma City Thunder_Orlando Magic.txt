@@ -1,0 +1,2 @@
+Oklahoma City Thunder,114,8,42.2,57,true
+Orlando Magic,106,-8,40.2,53,false

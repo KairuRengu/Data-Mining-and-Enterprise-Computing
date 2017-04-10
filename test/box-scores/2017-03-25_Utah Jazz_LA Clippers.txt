@@ -1,0 +1,2 @@
+Utah Jazz,95,-13,43.0,43,false
+LA Clippers,108,13,45.2,47,true

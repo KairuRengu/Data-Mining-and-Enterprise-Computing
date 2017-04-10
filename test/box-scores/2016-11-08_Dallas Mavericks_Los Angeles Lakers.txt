@@ -1,0 +1,2 @@
+Dallas Mavericks,109,12,52.4,37,true
+Los Angeles Lakers,97,-12,48.7,37,false

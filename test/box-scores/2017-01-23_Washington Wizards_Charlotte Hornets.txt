@@ -1,0 +1,2 @@
+Washington Wizards,109,10,53.8,47,true
+Charlotte Hornets,99,-10,38.9,43,false

@@ -1,0 +1,2 @@
+New York Knicks,114,-13,43.8,35,false
+Denver Nuggets,127,13,55.6,41,true

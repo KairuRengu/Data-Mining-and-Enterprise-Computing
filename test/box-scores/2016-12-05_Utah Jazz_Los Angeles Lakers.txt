@@ -1,0 +1,2 @@
+Utah Jazz,107,6,47.5,39,true
+Los Angeles Lakers,101,-6,44.8,43,false

@@ -1,0 +1,2 @@
+Denver Nuggets,100,-16,44.3,43,false
+Sacramento Kings,116,16,52.3,46,true

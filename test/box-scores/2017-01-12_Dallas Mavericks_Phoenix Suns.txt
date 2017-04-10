@@ -1,0 +1,2 @@
+Dallas Mavericks,113,5,48.3,32,true
+Phoenix Suns,108,-5,48.7,47,false

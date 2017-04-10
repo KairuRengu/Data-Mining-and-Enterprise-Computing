@@ -1,0 +1,2 @@
+LA Clippers,124,6,55.0,39,true
+Phoenix Suns,118,-6,53.3,43,false

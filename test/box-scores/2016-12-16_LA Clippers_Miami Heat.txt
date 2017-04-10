@@ -1,0 +1,2 @@
+LA Clippers,102,4,43.4,50,true
+Miami Heat,98,-4,40.9,47,false

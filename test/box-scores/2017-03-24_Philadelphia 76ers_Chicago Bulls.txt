@@ -1,0 +1,2 @@
+Philadelphia 76ers,117,10,55.4,46,true
+Chicago Bulls,107,-10,40.7,39,false

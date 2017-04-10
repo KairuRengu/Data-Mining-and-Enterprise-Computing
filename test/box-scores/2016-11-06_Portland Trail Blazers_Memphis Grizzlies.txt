@@ -1,0 +1,2 @@
+Portland Trail Blazers,100,6,45.1,37,true
+Memphis Grizzlies,94,-6,38.3,44,false

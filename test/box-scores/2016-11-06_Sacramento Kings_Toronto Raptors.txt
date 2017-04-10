@@ -1,0 +1,2 @@
+Sacramento Kings,96,5,43.6,47,true
+Toronto Raptors,91,-5,35.7,43,false

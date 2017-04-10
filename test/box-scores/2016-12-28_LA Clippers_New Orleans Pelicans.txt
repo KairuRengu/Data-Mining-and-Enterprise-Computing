@@ -1,0 +1,2 @@
+LA Clippers,98,-4,39.4,58,false
+New Orleans Pelicans,102,4,46.0,45,true

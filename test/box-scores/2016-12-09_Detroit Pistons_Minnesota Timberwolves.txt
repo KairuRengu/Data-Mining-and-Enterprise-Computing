@@ -1,0 +1,2 @@
+Detroit Pistons,117,27,50.0,42,true
+Minnesota Timberwolves,90,-27,47.4,37,false

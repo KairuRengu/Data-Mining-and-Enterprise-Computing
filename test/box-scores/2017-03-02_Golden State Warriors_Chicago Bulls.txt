@@ -1,0 +1,2 @@
+Golden State Warriors,87,-7,38.6,41,false
+Chicago Bulls,94,7,43.9,49,true

@@ -1,0 +1,2 @@
+Milwaukee Bucks,93,-20,46.3,32,false
+Memphis Grizzlies,113,20,51.9,37,true

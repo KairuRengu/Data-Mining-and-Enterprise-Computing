@@ -1,0 +1,2 @@
+Houston Rockets,97,-15,43.5,43,false
+Atlanta Hawks,112,15,52.9,44,true

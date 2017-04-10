@@ -1,0 +1,2 @@
+Phoenix Suns,120,-13,51.1,38,false
+Golden State Warriors,133,13,51.7,43,true

@@ -1,0 +1,2 @@
+Golden State Warriors,85,-22,35.9,49,false
+San Antonio Spurs,107,22,51.9,46,true

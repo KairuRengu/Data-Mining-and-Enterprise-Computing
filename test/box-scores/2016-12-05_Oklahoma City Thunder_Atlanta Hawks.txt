@@ -1,0 +1,2 @@
+Oklahoma City Thunder,102,3,46.3,43,true
+Atlanta Hawks,99,-3,44.2,36,false

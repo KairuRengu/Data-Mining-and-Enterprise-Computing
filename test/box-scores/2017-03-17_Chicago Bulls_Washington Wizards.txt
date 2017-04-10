@@ -1,0 +1,2 @@
+Chicago Bulls,107,-5,50.0,53,false
+Washington Wizards,112,5,45.5,40,true

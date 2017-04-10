@@ -1,0 +1,2 @@
+Portland Trail Blazers,111,-7,48.8,41,false
+Indiana Pacers,118,7,48.2,39,true

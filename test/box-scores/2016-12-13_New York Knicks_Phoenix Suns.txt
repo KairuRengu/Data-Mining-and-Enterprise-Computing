@@ -1,0 +1,2 @@
+New York Knicks,111,-2,39.2,43,false
+Phoenix Suns,113,2,40.9,61,true

@@ -1,0 +1,2 @@
+Oklahoma City Thunder,109,15,56.6,42,true
+Chicago Bulls,94,-15,41.0,38,false

@@ -1,0 +1,2 @@
+Phoenix Suns,115,-16,42.6,53,false
+Houston Rockets,131,16,50.0,47,true

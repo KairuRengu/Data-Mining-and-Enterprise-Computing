@@ -1,0 +1,2 @@
+New York Knicks,98,4,47.5,39,true
+Miami Heat,94,-4,41.0,41,false

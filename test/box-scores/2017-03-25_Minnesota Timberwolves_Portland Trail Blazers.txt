@@ -1,0 +1,2 @@
+Minnesota Timberwolves,100,-12,48.7,27,false
+Portland Trail Blazers,112,12,63.4,35,true

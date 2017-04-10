@@ -1,0 +1,2 @@
+Washington Wizards,125,1,52.2,46,true
+Portland Trail Blazers,124,-1,51.1,43,false

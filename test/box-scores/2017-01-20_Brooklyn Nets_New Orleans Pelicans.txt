@@ -1,0 +1,2 @@
+Brooklyn Nets,143,29,57.8,52,true
+New Orleans Pelicans,114,-29,41.0,47,false

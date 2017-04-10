@@ -1,0 +1,2 @@
+Brooklyn Nets,109,-20,48.2,40,false
+Minnesota Timberwolves,129,20,50.5,49,true

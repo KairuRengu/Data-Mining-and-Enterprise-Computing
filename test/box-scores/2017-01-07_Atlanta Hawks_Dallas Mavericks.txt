@@ -1,0 +1,2 @@
+Atlanta Hawks,97,15,40.5,47,true
+Dallas Mavericks,82,-15,39.0,41,false

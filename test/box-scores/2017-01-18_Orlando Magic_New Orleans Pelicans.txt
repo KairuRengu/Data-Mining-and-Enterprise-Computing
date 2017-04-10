@@ -1,0 +1,2 @@
+Orlando Magic,98,-20,44.3,47,false
+New Orleans Pelicans,118,20,49.5,45,true

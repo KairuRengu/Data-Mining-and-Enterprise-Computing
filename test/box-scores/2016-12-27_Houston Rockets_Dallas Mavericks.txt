@@ -1,0 +1,2 @@
+Houston Rockets,123,16,52.6,47,true
+Dallas Mavericks,107,-16,41.4,38,false

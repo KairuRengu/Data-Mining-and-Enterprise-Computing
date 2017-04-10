@@ -1,0 +1,2 @@
+Los Angeles Lakers,100,-3,43.2,44,false
+Memphis Grizzlies,103,3,46.6,43,true

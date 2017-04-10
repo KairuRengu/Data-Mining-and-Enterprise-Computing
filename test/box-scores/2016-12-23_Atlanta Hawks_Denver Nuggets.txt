@@ -1,0 +1,2 @@
+Atlanta Hawks,109,1,43.0,40,true
+Denver Nuggets,108,-1,47.4,46,false

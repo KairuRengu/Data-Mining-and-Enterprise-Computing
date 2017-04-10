@@ -1,0 +1,2 @@
+LA Clippers,115,10,50.0,46,true
+Atlanta Hawks,105,-10,42.0,40,false

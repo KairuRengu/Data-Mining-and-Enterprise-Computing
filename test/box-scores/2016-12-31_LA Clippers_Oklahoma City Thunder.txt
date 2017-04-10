@@ -1,0 +1,2 @@
+LA Clippers,88,-26,41.3,38,false
+Oklahoma City Thunder,114,26,47.4,44,true

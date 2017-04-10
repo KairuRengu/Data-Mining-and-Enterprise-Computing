@@ -1,0 +1,2 @@
+Utah Jazz,104,-11,46.3,35,false
+Boston Celtics,115,11,55.4,32,true

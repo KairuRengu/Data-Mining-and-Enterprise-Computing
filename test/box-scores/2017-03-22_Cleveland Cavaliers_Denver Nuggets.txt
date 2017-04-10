@@ -1,0 +1,2 @@
+Cleveland Cavaliers,113,-13,50.6,38,false
+Denver Nuggets,126,13,53.1,44,true

@@ -1,0 +1,2 @@
+Indiana Pacers,109,6,51.9,44,true
+Minnesota Timberwolves,103,-6,44.4,34,false

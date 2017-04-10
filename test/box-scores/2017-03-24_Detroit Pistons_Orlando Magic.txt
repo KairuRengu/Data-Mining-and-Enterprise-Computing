@@ -1,0 +1,2 @@
+Detroit Pistons,87,-28,35.4,50,false
+Orlando Magic,115,28,51.6,47,true

@@ -1,0 +1,2 @@
+Utah Jazz,94,2,41.6,39,true
+Minnesota Timberwolves,92,-2,43.8,48,false

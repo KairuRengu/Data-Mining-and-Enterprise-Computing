@@ -1,0 +1,2 @@
+Miami Heat,89,-7,44.6,45,false
+Dallas Mavericks,96,7,43.4,42,true

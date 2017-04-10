@@ -1,0 +1,2 @@
+Brooklyn Nets,121,11,47.7,51,true
+New York Knicks,110,-11,46.6,34,false

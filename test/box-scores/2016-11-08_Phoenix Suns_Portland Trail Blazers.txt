@@ -1,0 +1,2 @@
+Phoenix Suns,121,-3,50.0,41,false
+Portland Trail Blazers,124,3,55.6,35,true

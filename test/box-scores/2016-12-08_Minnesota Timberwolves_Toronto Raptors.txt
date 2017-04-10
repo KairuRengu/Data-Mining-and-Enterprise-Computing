@@ -1,0 +1,2 @@
+Minnesota Timberwolves,110,-14,51.1,43,false
+Toronto Raptors,124,14,49.4,42,true

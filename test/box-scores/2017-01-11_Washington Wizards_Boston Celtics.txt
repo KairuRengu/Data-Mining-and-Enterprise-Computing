@@ -1,0 +1,2 @@
+Washington Wizards,108,-9,42.9,44,false
+Boston Celtics,117,9,50.6,45,true

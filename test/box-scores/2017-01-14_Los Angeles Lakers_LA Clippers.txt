@@ -1,0 +1,2 @@
+Los Angeles Lakers,97,-16,45.0,40,false
+LA Clippers,113,16,52.2,42,true

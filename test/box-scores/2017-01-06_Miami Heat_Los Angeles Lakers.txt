@@ -1,0 +1,2 @@
+Miami Heat,100,-27,41.3,41,false
+Los Angeles Lakers,127,27,50.0,62,true

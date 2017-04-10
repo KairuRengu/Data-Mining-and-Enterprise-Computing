@@ -1,0 +1,2 @@
+Brooklyn Nets,95,-17,40.4,52,false
+Golden State Warriors,112,17,42.0,52,true
