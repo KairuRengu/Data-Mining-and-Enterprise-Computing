@@ -1,0 +1,2 @@
+Los Angeles Lakers,90,-19,35.6,46,false
+Orlando Magic,109,19,50.6,47,true

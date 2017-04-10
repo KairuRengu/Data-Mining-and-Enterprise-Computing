@@ -1,0 +1,2 @@
+Charlotte Hornets,118,-2,46.8,44,false
+Brooklyn Nets,120,2,53.3,39,true

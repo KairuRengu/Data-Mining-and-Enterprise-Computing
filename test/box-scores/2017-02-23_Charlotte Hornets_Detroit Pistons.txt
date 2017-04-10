@@ -1,0 +1,2 @@
+Charlotte Hornets,108,-6,41.3,50,false
+Detroit Pistons,114,6,41.1,57,true

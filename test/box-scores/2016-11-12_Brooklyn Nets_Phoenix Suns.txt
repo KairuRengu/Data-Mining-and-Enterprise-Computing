@@ -1,0 +1,2 @@
+Brooklyn Nets,122,18,47.6,55,true
+Phoenix Suns,104,-18,37.4,55,false

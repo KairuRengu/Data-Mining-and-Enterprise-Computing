@@ -1,0 +1,2 @@
+Oklahoma City Thunder,89,-20,36.6,38,false
+Utah Jazz,109,20,58.3,38,true

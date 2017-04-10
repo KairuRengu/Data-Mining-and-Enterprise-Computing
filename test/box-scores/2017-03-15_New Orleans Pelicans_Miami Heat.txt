@@ -1,0 +1,2 @@
+New Orleans Pelicans,112,-8,47.7,38,false
+Miami Heat,120,8,50.6,45,true

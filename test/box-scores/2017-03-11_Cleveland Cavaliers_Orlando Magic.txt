@@ -1,0 +1,2 @@
+Cleveland Cavaliers,116,12,50.0,52,true
+Orlando Magic,104,-12,39.6,52,false

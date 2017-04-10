@@ -1,0 +1,2 @@
+Philadelphia 76ers,104,-2,43.8,52,false
+Golden State Warriors,106,2,36.4,43,true

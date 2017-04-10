@@ -1,0 +1,2 @@
+Toronto Raptors,87,12,38.5,53,true
+Detroit Pistons,75,-12,34.9,49,false

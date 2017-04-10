@@ -1,0 +1,2 @@
+Memphis Grizzlies,98,7,42.4,52,true
+Chicago Bulls,91,-7,37.4,45,false

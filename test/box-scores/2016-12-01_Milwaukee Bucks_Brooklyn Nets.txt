@@ -1,0 +1,2 @@
+Milwaukee Bucks,111,18,45.0,48,true
+Brooklyn Nets,93,-18,38.2,40,false

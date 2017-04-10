@@ -1,0 +1,2 @@
+Sacramento Kings,98,1,45.2,46,true
+LA Clippers,97,-1,41.0,45,false

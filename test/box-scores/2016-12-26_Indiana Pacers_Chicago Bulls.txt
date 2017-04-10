@@ -1,0 +1,2 @@
+Indiana Pacers,85,-5,42.0,40,false
+Chicago Bulls,90,5,38.6,48,true

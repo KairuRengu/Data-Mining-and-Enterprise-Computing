@@ -1,0 +1,2 @@
+Memphis Grizzlies,112,14,50.6,40,true
+Sacramento Kings,98,-14,43.1,39,false

@@ -1,0 +1,2 @@
+Phoenix Suns,105,-7,46.4,41,false
+Utah Jazz,112,7,49.3,35,true

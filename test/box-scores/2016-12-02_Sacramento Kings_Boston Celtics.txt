@@ -1,0 +1,2 @@
+Sacramento Kings,92,-5,37.5,51,false
+Boston Celtics,97,5,40.9,45,true

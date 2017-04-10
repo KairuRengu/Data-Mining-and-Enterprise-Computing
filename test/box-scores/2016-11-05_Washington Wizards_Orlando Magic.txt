@@ -1,0 +1,2 @@
+Washington Wizards,86,-2,39.5,49,false
+Orlando Magic,88,2,39.7,43,true

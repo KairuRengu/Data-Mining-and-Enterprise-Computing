@@ -1,0 +1,2 @@
+Indiana Pacers,81,-6,36.8,53,false
+New York Knicks,87,6,42.2,52,true

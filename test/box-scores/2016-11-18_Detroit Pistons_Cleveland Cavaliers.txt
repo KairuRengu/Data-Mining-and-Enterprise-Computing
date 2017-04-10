@@ -1,0 +1,2 @@
+Detroit Pistons,81,-23,31.2,44,false
+Cleveland Cavaliers,104,23,48.2,52,true

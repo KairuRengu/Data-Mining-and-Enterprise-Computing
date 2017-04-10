@@ -1,0 +1,2 @@
+Phoenix Suns,101,-13,43.3,43,false
+Oklahoma City Thunder,114,13,50.6,42,true

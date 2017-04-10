@@ -1,0 +1,2 @@
+Utah Jazz,97,14,46.8,43,true
+Detroit Pistons,83,-14,41.9,39,false

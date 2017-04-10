@@ -1,0 +1,2 @@
+Brooklyn Nets,105,-5,46.3,40,false
+Atlanta Hawks,110,5,43.2,47,true

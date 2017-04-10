@@ -1,0 +1,2 @@
+Brooklyn Nets,101,-29,41.4,47,false
+San Antonio Spurs,130,29,53.2,49,true

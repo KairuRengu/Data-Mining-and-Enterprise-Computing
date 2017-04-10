@@ -1,0 +1,2 @@
+Orlando Magic,89,-4,41.6,54,false
+Milwaukee Bucks,93,4,40.7,37,true

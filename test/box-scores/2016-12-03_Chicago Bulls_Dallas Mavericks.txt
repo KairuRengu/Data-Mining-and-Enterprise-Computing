@@ -1,0 +1,2 @@
+Chicago Bulls,82,-25,45.1,43,false
+Dallas Mavericks,107,25,46.0,42,true

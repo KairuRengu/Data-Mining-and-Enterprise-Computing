@@ -1,0 +1,2 @@
+Cleveland Cavaliers,126,32,48.8,46,true
+New York Knicks,94,-32,40.2,43,false

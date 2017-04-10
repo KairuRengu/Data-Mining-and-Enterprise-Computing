@@ -1,0 +1,2 @@
+San Antonio Spurs,100,14,44.6,49,true
+Utah Jazz,86,-14,37.5,42,false

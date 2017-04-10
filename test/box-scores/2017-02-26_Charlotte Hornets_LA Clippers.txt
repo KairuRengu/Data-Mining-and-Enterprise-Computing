@@ -1,0 +1,2 @@
+Charlotte Hornets,121,-3,47.5,43,false
+LA Clippers,124,3,46.4,47,true

@@ -1,0 +1,2 @@
+Toronto Raptors,99,-6,40.2,46,false
+Atlanta Hawks,105,6,52.0,45,true

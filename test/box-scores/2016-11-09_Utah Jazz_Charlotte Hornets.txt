@@ -1,0 +1,2 @@
+Utah Jazz,98,-6,46.3,46,false
+Charlotte Hornets,104,6,46.3,37,true

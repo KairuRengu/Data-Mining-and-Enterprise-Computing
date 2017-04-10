@@ -1,0 +1,2 @@
+New York Knicks,92,-12,37.6,50,false
+New Orleans Pelicans,104,12,44.7,42,true

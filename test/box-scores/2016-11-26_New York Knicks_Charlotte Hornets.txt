@@ -1,0 +1,2 @@
+New York Knicks,102,-5,37.4,47,false
+Charlotte Hornets,107,5,43.8,52,true

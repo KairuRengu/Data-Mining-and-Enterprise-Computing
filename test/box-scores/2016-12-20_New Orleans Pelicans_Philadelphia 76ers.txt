@@ -1,0 +1,2 @@
+New Orleans Pelicans,108,15,43.0,56,true
+Philadelphia 76ers,93,-15,40.2,43,false

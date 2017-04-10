@@ -1,0 +1,2 @@
+Brooklyn Nets,105,-19,42.2,30,false
+Oklahoma City Thunder,124,19,55.1,46,true

@@ -1,0 +1,2 @@
+Brooklyn Nets,118,-4,52.5,41,false
+Houston Rockets,122,4,46.2,39,true

@@ -1,0 +1,2 @@
+Indiana Pacers,104,-9,46.5,43,false
+Cleveland Cavaliers,113,9,47.6,40,true

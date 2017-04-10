@@ -1,0 +1,2 @@
+Denver Nuggets,125,18,56.3,45,true
+Chicago Bulls,107,-18,45.8,35,false

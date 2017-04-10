@@ -1,0 +1,2 @@
+Milwaukee Bucks,116,20,56.6,42,true
+Chicago Bulls,96,-20,39.8,37,false

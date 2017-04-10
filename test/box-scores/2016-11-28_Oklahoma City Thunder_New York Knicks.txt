@@ -1,0 +1,2 @@
+Oklahoma City Thunder,112,9,50.0,53,true
+New York Knicks,103,-9,39.6,40,false

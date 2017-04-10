@@ -1,0 +1,2 @@
+Miami Heat,90,-4,44.0,41,false
+San Antonio Spurs,94,4,40.2,52,true

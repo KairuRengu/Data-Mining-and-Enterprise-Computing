@@ -1,0 +1,2 @@
+Golden State Warriors,120,37,44.4,60,true
+Indiana Pacers,83,-37,32.0,49,false

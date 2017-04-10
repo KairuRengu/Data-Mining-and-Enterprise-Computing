@@ -1,0 +1,2 @@
+Denver Nuggets,125,8,47.6,45,true
+Indiana Pacers,117,-8,50.5,39,false

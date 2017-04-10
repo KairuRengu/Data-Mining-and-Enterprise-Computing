@@ -1,0 +1,2 @@
+Cleveland Cavaliers,121,12,50.6,35,true
+Charlotte Hornets,109,-12,51.3,39,false

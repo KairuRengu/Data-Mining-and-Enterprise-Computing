@@ -1,0 +1,2 @@
+Boston Celtics,105,-1,40.0,44,false
+New Orleans Pelicans,106,1,44.3,46,true

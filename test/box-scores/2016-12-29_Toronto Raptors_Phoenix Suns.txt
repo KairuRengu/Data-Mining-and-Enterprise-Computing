@@ -1,0 +1,2 @@
+Toronto Raptors,91,-8,40.0,43,false
+Phoenix Suns,99,8,44.6,47,true

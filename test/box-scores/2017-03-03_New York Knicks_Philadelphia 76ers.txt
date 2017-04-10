@@ -1,0 +1,2 @@
+New York Knicks,102,-3,39.3,41,false
+Philadelphia 76ers,105,3,43.4,50,true

@@ -1,0 +1,2 @@
+Los Angeles Lakers,92,-24,39.3,39,false
+Sacramento Kings,116,24,56.0,47,true

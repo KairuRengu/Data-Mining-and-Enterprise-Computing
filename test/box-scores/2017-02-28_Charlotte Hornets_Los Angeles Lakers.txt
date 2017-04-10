@@ -1,0 +1,2 @@
+Charlotte Hornets,109,5,44.7,45,true
+Los Angeles Lakers,104,-5,48.8,39,false

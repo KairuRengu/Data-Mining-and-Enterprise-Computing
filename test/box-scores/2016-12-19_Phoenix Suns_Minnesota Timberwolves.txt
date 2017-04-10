@@ -1,0 +1,2 @@
+Phoenix Suns,108,-7,45.1,34,false
+Minnesota Timberwolves,115,7,48.8,41,true

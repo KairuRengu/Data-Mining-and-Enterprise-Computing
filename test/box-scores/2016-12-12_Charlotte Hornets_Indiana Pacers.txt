@@ -1,0 +1,2 @@
+Charlotte Hornets,94,-16,33.3,46,false
+Indiana Pacers,110,16,48.9,42,true

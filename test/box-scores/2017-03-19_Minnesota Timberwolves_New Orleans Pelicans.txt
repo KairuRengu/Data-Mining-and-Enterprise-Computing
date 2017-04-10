@@ -1,0 +1,2 @@
+Minnesota Timberwolves,109,-14,51.2,35,false
+New Orleans Pelicans,123,14,54.4,43,true

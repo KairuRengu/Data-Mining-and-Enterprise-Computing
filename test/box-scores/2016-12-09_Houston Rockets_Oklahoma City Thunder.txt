@@ -1,0 +1,2 @@
+Houston Rockets,102,3,39.1,52,true
+Oklahoma City Thunder,99,-3,42.0,46,false

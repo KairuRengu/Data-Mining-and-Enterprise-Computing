@@ -1,0 +1,2 @@
+Minnesota Timberwolves,123,16,51.7,45,true
+Orlando Magic,107,-16,44.7,39,false

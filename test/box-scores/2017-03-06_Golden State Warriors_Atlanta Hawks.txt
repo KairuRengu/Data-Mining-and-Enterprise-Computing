@@ -1,0 +1,2 @@
+Golden State Warriors,119,8,47.1,43,true
+Atlanta Hawks,111,-8,46.3,47,false

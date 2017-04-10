@@ -1,0 +1,2 @@
+Dallas Mavericks,74,-42,34.5,34,false
+Philadelphia 76ers,116,42,52.5,55,true

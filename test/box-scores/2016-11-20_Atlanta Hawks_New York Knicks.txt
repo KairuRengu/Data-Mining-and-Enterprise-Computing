@@ -1,0 +1,2 @@
+Atlanta Hawks,94,-10,40.0,48,false
+New York Knicks,104,10,47.7,50,true

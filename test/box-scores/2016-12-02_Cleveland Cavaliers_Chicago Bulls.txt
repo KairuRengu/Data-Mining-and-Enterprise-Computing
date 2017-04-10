@@ -1,0 +1,2 @@
+Cleveland Cavaliers,105,-6,54.2,33,false
+Chicago Bulls,111,6,49.0,49,true

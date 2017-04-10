@@ -1,0 +1,2 @@
+Minnesota Timberwolves,114,-4,46.6,43,false
+New York Knicks,118,4,47.7,43,true

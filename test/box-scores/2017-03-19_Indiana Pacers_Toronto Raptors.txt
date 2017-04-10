@@ -1,0 +1,2 @@
+Indiana Pacers,91,-25,41.3,33,false
+Toronto Raptors,116,25,49.5,51,true

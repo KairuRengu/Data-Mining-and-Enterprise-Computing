@@ -1,0 +1,2 @@
+Toronto Raptors,94,8,48.1,44,true
+Dallas Mavericks,86,-8,37.8,40,false

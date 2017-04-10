@@ -1,0 +1,2 @@
+Sacramento Kings,94,1,45.9,41,true
+Utah Jazz,93,-1,44.6,43,false

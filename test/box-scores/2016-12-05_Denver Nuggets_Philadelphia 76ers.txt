@@ -1,0 +1,2 @@
+Denver Nuggets,106,8,46.1,45,true
+Philadelphia 76ers,98,-8,40.7,44,false

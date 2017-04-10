@@ -1,0 +1,2 @@
+Chicago Bulls,80,-20,37.9,40,false
+Boston Celtics,100,20,46.5,51,true

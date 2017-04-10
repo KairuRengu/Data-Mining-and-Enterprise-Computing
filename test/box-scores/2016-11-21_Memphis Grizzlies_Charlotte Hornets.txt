@@ -1,0 +1,2 @@
+Memphis Grizzlies,105,15,47.6,40,true
+Charlotte Hornets,90,-15,41.1,39,false

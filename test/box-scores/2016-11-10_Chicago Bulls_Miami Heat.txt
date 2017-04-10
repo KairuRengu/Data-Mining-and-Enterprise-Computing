@@ -1,0 +1,2 @@
+Chicago Bulls,98,3,41.6,48,true
+Miami Heat,95,-3,40.9,46,false

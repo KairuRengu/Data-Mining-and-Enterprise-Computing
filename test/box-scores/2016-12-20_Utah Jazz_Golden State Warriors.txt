@@ -1,0 +1,2 @@
+Utah Jazz,74,-30,35.5,44,false
+Golden State Warriors,104,30,44.4,50,true

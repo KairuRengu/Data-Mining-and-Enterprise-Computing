@@ -1,0 +1,2 @@
+San Antonio Spurs,100,5,43.5,41,true
+Oklahoma City Thunder,95,-5,40.7,46,false

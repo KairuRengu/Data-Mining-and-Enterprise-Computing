@@ -1,0 +1,2 @@
+Washington Wizards,101,-11,46.4,37,false
+Miami Heat,112,11,51.1,47,true

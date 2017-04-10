@@ -1,0 +1,2 @@
+Toronto Raptors,115,-8,50.0,32,false
+LA Clippers,123,8,52.7,42,true

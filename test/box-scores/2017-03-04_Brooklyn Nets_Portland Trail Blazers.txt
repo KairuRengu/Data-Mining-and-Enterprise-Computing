@@ -1,0 +1,2 @@
+Brooklyn Nets,116,-14,52.3,31,false
+Portland Trail Blazers,130,14,57.0,37,true

@@ -1,0 +1,2 @@
+Portland Trail Blazers,88,-23,40.5,41,false
+Utah Jazz,111,23,51.9,46,true

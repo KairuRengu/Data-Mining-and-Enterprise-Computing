@@ -1,0 +1,2 @@
+New York Knicks,122,-7,44.8,48,false
+Houston Rockets,129,7,45.7,46,true

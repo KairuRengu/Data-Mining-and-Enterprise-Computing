@@ -1,0 +1,2 @@
+Portland Trail Blazers,112,2,48.4,38,true
+Chicago Bulls,110,-2,42.2,50,false
