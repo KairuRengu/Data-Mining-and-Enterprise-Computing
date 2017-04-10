@@ -1,0 +1,28 @@
+.thumbnail {
+    padding:0;
+}
+.center{
+	text-align: center;
+}
+.well{
+	margin-top: 1.5em;
+	margin-bottom:1.5em;
+}
+
+.background-color-primary-0 { background-color: #7C9EB2 }	/* Main Primary color */
+.background-color-primary-1 { background-color: #F31F14 }
+.background-color-primary-2 { background-color: #FFFFEA }
+.background-color-primary-3 { background-color: #2771B4 }
+.background-color-primary-4 { background-color: #223843 }
+
+.font-color-primary-0 { color: #FF5E5B }	/* Main Primary color */
+.font-color-primary-1 { color: #D8D8D8 }
+.font-color-primary-2 { color: #FFFFEA }
+.font-color-primary-3 { color: #00CECB }
+.font-color-primary-4 { color: #223843 }
+
+.color-primary-0 { background-color: #FF5E5B }	/* Main Primary color */
+.color-primary-1 { background-color: #D8D8D8 }
+.color-primary-2 { background-color: #FFFFEA }
+.color-primary-3 { background-color: #00CECB }
+.color-primary-4 { background-color: #223843 }
