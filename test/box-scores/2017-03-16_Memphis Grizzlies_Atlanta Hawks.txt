@@ -1,2 +1,0 @@
-Memphis Grizzlies,103,12,42.4,48,true
-Atlanta Hawks,91,-12,40.8,38,false

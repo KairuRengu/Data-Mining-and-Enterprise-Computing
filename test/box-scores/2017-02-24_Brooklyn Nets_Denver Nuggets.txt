@@ -1,2 +1,0 @@
-Brooklyn Nets,109,-20,49.4,42,false
-Denver Nuggets,129,20,50.5,51,true

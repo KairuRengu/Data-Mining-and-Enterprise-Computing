@@ -1,2 +1,0 @@
-Sacramento Kings,95,10,50.7,50,true
-Houston Rockets,85,-10,41.0,30,false

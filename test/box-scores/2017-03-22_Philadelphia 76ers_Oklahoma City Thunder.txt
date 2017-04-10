@@ -1,2 +1,0 @@
-Philadelphia 76ers,97,-25,42.5,25,false
-Oklahoma City Thunder,122,25,54.5,54,true

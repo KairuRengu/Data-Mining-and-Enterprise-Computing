@@ -1,2 +1,0 @@
-Cleveland Cavaliers,116,4,47.6,48,true
-Toronto Raptors,112,-4,43.2,33,false

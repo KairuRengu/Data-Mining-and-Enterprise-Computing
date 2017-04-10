@@ -1,2 +1,0 @@
-Denver Nuggets,113,-9,46.8,47,false
-Portland Trail Blazers,122,9,49.5,47,true

@@ -1,2 +1,0 @@
-Golden State Warriors,106,7,48.8,47,true
-Utah Jazz,99,-7,41.6,46,false

@@ -1,2 +1,0 @@
-Indiana Pacers,97,-13,43.5,43,false
-Memphis Grizzlies,110,13,46.6,43,true

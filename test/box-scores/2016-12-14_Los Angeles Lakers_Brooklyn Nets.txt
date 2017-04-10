@@ -1,2 +1,0 @@
-Los Angeles Lakers,97,-10,38.5,49,false
-Brooklyn Nets,107,10,38.4,61,true

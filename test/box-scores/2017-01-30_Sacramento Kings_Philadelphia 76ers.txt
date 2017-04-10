@@ -1,2 +1,0 @@
-Sacramento Kings,119,-3,55.4,33,false
-Philadelphia 76ers,122,3,54.2,29,true

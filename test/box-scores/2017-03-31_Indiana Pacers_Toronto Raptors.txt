@@ -1,2 +1,0 @@
-Indiana Pacers,100,-11,41.4,42,false
-Toronto Raptors,111,11,45.1,53,true

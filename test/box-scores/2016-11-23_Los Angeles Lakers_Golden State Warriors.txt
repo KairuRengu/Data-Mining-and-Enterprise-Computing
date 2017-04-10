@@ -1,2 +1,0 @@
-Los Angeles Lakers,106,-43,43.0,37,false
-Golden State Warriors,149,43,61.6,48,true

@@ -1,2 +1,0 @@
-New Orleans Pelicans,112,18,52.3,40,true
-Atlanta Hawks,94,-18,45.9,40,false

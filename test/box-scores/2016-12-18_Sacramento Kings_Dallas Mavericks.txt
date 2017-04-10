@@ -1,2 +1,0 @@
-Sacramento Kings,79,-20,39.5,42,false
-Dallas Mavericks,99,20,44.2,44,true

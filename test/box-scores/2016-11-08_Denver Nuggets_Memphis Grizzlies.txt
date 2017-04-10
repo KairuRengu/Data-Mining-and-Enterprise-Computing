@@ -1,2 +1,0 @@
-Denver Nuggets,107,-1,50.0,39,false
-Memphis Grizzlies,108,1,51.2,32,true

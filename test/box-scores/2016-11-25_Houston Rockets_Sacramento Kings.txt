@@ -1,2 +1,0 @@
-Houston Rockets,117,13,47.1,42,true
-Sacramento Kings,104,-13,48.8,37,false

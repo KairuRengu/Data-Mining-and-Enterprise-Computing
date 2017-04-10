@@ -1,2 +1,0 @@
-Milwaukee Bucks,75,-11,36.6,51,false
-Dallas Mavericks,86,11,37.5,46,true

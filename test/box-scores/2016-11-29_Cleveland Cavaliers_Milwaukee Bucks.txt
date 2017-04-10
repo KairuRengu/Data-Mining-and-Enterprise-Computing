@@ -1,2 +1,0 @@
-Cleveland Cavaliers,101,-17,42.7,35,false
-Milwaukee Bucks,118,17,53.5,43,true

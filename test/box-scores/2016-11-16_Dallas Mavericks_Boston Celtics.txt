@@ -1,2 +1,0 @@
-Dallas Mavericks,83,-7,41.0,32,false
-Boston Celtics,90,7,43.4,53,true

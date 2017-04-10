@@ -1,2 +1,0 @@
-Indiana Pacers,117,9,45.1,55,true
-Houston Rockets,108,-9,36.4,39,false

@@ -1,2 +1,0 @@
-Indiana Pacers,107,-18,46.9,32,false
-Milwaukee Bucks,125,18,57.3,41,true

@@ -1,2 +1,0 @@
-Memphis Grizzlies,98,12,42.7,38,true
-Detroit Pistons,86,-12,36.1,46,false

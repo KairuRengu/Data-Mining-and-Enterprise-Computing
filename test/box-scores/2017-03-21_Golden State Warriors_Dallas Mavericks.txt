@@ -1,2 +1,0 @@
-Golden State Warriors,112,25,55.1,46,true
-Dallas Mavericks,87,-25,35.9,39,false

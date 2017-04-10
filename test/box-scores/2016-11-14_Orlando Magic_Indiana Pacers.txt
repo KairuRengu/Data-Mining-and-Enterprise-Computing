@@ -1,2 +1,0 @@
-Orlando Magic,69,-19,32.1,52,false
-Indiana Pacers,88,19,38.9,49,true

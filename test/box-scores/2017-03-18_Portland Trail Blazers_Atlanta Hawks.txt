@@ -1,2 +1,0 @@
-Portland Trail Blazers,113,16,50.6,54,true
-Atlanta Hawks,97,-16,36.4,35,false

@@ -1,2 +1,0 @@
-Utah Jazz,86,-9,38.3,49,false
-Chicago Bulls,95,9,47.5,39,true

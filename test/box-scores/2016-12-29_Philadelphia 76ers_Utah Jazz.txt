@@ -1,2 +1,0 @@
-Philadelphia 76ers,83,-17,40.2,41,false
-Utah Jazz,100,17,47.9,43,true

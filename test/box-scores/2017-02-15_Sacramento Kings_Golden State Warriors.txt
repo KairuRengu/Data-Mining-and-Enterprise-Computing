@@ -1,2 +1,0 @@
-Sacramento Kings,86,-23,37.1,50,false
-Golden State Warriors,109,23,48.8,46,true

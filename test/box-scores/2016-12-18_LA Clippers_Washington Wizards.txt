@@ -1,2 +1,0 @@
-LA Clippers,110,-7,49.4,40,false
-Washington Wizards,117,7,53.1,33,true

@@ -1,2 +1,0 @@
-Chicago Bulls,91,-12,39.6,52,false
-Charlotte Hornets,103,12,44.0,48,true

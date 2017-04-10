@@ -1,2 +1,0 @@
-Philadelphia 76ers,100,-12,47.6,41,false
-LA Clippers,112,12,49.4,41,true

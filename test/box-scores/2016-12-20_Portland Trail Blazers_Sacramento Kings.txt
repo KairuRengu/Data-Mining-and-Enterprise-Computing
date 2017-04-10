@@ -1,2 +1,0 @@
-Portland Trail Blazers,121,-5,51.2,41,false
-Sacramento Kings,126,5,55.6,31,true

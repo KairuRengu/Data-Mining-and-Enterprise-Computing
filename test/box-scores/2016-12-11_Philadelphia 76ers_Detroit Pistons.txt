@@ -1,2 +1,0 @@
-Philadelphia 76ers,97,18,55.9,42,true
-Detroit Pistons,79,-18,39.0,34,false

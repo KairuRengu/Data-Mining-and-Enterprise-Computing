@@ -1,2 +1,0 @@
-New York Knicks,90,-13,40.9,49,false
-Golden State Warriors,103,13,46.9,57,true

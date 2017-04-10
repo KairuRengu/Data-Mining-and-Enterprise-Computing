@@ -1,2 +1,0 @@
-Detroit Pistons,100,-7,36.0,41,false
-Phoenix Suns,107,7,45.2,49,true

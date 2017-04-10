@@ -1,2 +1,0 @@
-Golden State Warriors,111,16,48.2,46,true
-Oklahoma City Thunder,95,-16,42.5,40,false

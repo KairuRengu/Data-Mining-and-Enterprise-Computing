@@ -1,2 +1,0 @@
-Denver Nuggets,98,-7,44.6,37,false
-Utah Jazz,105,7,44.9,40,true

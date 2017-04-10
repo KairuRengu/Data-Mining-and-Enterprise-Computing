@@ -1,2 +1,0 @@
-Houston Rockets,101,2,47.4,45,true
-San Antonio Spurs,99,-2,39.3,39,false

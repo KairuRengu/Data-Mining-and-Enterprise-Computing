@@ -1,2 +1,0 @@
-Miami Heat,92,-7,44.2,46,false
-Portland Trail Blazers,99,7,40.4,47,true

@@ -1,2 +1,0 @@
-Golden State Warriors,104,16,48.9,50,true
-Boston Celtics,88,-16,37.3,43,false

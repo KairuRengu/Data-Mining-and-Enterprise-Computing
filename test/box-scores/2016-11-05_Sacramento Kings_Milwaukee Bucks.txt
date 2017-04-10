@@ -1,2 +1,0 @@
-Sacramento Kings,91,-26,39.3,36,false
-Milwaukee Bucks,117,26,50.0,53,true

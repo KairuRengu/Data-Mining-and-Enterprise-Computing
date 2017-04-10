@@ -1,2 +1,0 @@
-Chicago Bulls,107,-8,45.1,31,false
-Atlanta Hawks,115,8,50.6,48,true

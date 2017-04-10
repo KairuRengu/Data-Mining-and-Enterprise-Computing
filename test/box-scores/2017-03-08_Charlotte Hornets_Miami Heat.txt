@@ -1,2 +1,0 @@
-Charlotte Hornets,101,-7,46.3,39,false
-Miami Heat,108,7,43.5,46,true

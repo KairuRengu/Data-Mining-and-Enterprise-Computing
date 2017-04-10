@@ -1,2 +1,0 @@
-Houston Rockets,115,21,41.6,54,true
-Chicago Bulls,94,-21,38.8,49,false

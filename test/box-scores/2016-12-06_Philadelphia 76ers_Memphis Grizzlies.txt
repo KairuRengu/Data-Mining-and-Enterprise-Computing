@@ -1,2 +1,0 @@
-Philadelphia 76ers,91,-5,39.0,45,false
-Memphis Grizzlies,96,5,38.4,53,true

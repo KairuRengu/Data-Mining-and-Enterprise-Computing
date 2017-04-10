@@ -1,2 +1,0 @@
-Boston Celtics,99,-20,42.0,34,false
-Denver Nuggets,119,20,52.9,50,true

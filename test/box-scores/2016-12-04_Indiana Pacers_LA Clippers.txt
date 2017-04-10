@@ -1,2 +1,0 @@
-Indiana Pacers,111,9,49.4,36,true
-LA Clippers,102,-9,44.4,51,false

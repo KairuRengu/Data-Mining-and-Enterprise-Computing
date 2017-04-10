@@ -1,2 +1,0 @@
-Phoenix Suns,96,-4,48.2,42,false
-Milwaukee Bucks,100,4,51.3,33,true

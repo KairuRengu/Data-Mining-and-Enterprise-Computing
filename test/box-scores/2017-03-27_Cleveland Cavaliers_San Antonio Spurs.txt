@@ -1,2 +1,0 @@
-Cleveland Cavaliers,74,-29,37.3,40,false
-San Antonio Spurs,103,29,47.7,52,true

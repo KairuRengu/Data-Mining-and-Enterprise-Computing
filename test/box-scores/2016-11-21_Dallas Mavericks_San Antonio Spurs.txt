@@ -1,2 +1,0 @@
-Dallas Mavericks,91,-5,47.3,40,false
-San Antonio Spurs,96,5,46.7,39,true

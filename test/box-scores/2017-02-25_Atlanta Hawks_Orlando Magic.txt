@@ -1,2 +1,0 @@
-Atlanta Hawks,86,-19,37.6,48,false
-Orlando Magic,105,19,45.7,47,true

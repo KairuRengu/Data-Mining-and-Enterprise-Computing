@@ -1,2 +1,0 @@
-Miami Heat,99,-11,38.5,46,false
-Orlando Magic,110,11,50.0,47,true

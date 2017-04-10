@@ -1,2 +1,0 @@
-Milwaukee Bucks,107,4,48.8,43,true
-Los Angeles Lakers,103,-4,45.2,40,false

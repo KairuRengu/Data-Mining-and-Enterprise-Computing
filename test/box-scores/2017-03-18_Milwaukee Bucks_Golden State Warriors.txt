@@ -1,2 +1,0 @@
-Milwaukee Bucks,92,-25,40.4,35,false
-Golden State Warriors,117,25,60.0,44,true

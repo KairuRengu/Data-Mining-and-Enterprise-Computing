@@ -1,2 +1,0 @@
-Philadelphia 76ers,108,-6,43.6,44,false
-Portland Trail Blazers,114,6,45.5,55,true

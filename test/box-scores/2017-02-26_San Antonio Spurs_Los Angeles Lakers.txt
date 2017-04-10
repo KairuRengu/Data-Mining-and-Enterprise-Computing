@@ -1,2 +1,0 @@
-San Antonio Spurs,119,21,52.1,46,true
-Los Angeles Lakers,98,-21,46.0,44,false

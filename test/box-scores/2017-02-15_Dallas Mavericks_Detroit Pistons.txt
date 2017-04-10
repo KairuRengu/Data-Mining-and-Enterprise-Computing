@@ -1,2 +1,0 @@
-Dallas Mavericks,91,-7,38.0,39,false
-Detroit Pistons,98,7,43.9,55,true

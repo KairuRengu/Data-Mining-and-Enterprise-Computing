@@ -1,2 +1,0 @@
-Los Angeles Lakers,123,7,53.3,42,true
-Atlanta Hawks,116,-7,48.2,37,false

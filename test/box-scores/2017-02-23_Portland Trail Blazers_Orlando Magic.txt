@@ -1,2 +1,0 @@
-Portland Trail Blazers,112,9,50.6,45,true
-Orlando Magic,103,-9,39.5,40,false

@@ -1,2 +1,0 @@
-LA Clippers,116,24,51.6,41,true
-San Antonio Spurs,92,-24,40.5,40,false

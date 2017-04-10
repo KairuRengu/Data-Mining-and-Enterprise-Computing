@@ -1,2 +1,0 @@
-Houston Rockets,98,-9,37.4,48,false
-Golden State Warriors,107,9,45.3,43,true

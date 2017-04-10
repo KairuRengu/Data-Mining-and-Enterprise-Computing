@@ -1,2 +1,0 @@
-Atlanta Hawks,100,-4,39.5,44,false
-Washington Wizards,104,4,40.0,54,true

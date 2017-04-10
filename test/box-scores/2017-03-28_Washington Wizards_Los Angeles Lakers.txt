@@ -1,2 +1,0 @@
-Washington Wizards,119,11,51.1,41,true
-Los Angeles Lakers,108,-11,50.6,43,false

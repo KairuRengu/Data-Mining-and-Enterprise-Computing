@@ -1,2 +1,0 @@
-Golden State Warriors,125,24,54.1,44,true
-Denver Nuggets,101,-24,40.4,44,false

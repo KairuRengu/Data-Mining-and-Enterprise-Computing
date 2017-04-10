@@ -1,2 +1,0 @@
-Charlotte Hornets,99,4,41.9,49,true
-Brooklyn Nets,95,-4,40.2,46,false

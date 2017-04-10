@@ -1,2 +1,0 @@
-Minnesota Timberwolves,125,5,45.3,51,true
-Charlotte Hornets,120,-5,43.6,50,false

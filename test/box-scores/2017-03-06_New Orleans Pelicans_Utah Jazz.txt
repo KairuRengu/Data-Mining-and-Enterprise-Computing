@@ -1,2 +1,0 @@
-New Orleans Pelicans,83,-5,35.7,47,false
-Utah Jazz,88,5,40.7,46,true

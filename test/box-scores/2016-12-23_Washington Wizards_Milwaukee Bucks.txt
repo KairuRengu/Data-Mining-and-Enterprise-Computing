@@ -1,2 +1,0 @@
-Washington Wizards,96,-27,46.8,30,false
-Milwaukee Bucks,123,27,56.3,41,true

@@ -1,2 +1,0 @@
-San Antonio Spurs,110,20,-,45,true
-Portland Trail Blazers,90,-20,-,33,false

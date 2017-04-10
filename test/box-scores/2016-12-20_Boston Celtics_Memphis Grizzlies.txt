@@ -1,2 +1,0 @@
-Boston Celtics,112,3,40.7,41,true
-Memphis Grizzlies,109,-3,40.4,52,false

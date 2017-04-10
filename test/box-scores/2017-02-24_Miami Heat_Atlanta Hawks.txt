@@ -1,2 +1,0 @@
-Miami Heat,108,18,40.4,54,true
-Atlanta Hawks,90,-18,38.0,45,false

@@ -1,2 +1,0 @@
-Milwaukee Bucks,119,25,57.1,38,true
-Detroit Pistons,94,-25,44.3,44,false

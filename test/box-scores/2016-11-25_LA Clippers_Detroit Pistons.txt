@@ -1,2 +1,0 @@
-LA Clippers,97,-11,47.9,32,false
-Detroit Pistons,108,11,52.2,42,true

@@ -1,2 +1,0 @@
-Memphis Grizzlies,115,19,48.8,44,true
-Phoenix Suns,96,-19,41.9,42,false

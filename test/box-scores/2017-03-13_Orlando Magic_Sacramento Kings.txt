@@ -1,2 +1,0 @@
-Orlando Magic,115,-5,45.9,44,false
-Sacramento Kings,120,5,53.7,41,true

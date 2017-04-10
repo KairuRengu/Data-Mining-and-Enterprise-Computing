@@ -1,2 +1,0 @@
-Toronto Raptors,113,10,55.8,31,true
-Washington Wizards,103,-10,58.3,36,false

@@ -1,2 +1,0 @@
-LA Clippers,133,24,53.6,48,true
-Los Angeles Lakers,109,-24,46.7,41,false

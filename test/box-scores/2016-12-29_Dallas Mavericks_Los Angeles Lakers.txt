@@ -1,2 +1,0 @@
-Dallas Mavericks,101,12,49.4,42,true
-Los Angeles Lakers,89,-12,47.1,34,false

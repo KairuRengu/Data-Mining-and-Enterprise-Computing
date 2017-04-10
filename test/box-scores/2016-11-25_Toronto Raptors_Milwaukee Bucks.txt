@@ -1,2 +1,0 @@
-Toronto Raptors,105,6,46.3,38,true
-Milwaukee Bucks,99,-6,50.6,38,false

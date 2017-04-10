@@ -1,2 +1,0 @@
-Boston Celtics,106,-1,42.4,42,false
-Houston Rockets,107,1,44.7,46,true

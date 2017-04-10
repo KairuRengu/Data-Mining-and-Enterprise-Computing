@@ -1,2 +1,0 @@
-Indiana Pacers,97,1,44.9,44,true
-Atlanta Hawks,96,-1,44.2,44,false

@@ -1,2 +1,0 @@
-Brooklyn Nets,104,-12,39.6,52,false
-Toronto Raptors,116,12,46.2,48,true

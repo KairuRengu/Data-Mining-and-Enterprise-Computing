@@ -1,2 +1,0 @@
-Brooklyn Nets,107,-1,44.4,43,false
-Philadelphia 76ers,108,1,43.2,47,true

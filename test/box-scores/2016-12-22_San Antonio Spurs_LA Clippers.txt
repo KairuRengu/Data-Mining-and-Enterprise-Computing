@@ -1,2 +1,0 @@
-San Antonio Spurs,101,-5,40.2,55,false
-LA Clippers,106,5,47.0,40,true

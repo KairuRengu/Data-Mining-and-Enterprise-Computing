@@ -1,2 +1,0 @@
-Memphis Grizzlies,82,-13,40.5,41,false
-New Orleans Pelicans,95,13,39.8,51,true

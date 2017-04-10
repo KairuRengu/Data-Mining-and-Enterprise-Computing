@@ -1,2 +1,0 @@
-Sacramento Kings,107,6,48.1,48,true
-Phoenix Suns,101,-6,40.2,47,false

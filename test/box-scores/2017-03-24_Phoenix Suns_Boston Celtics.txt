@@ -1,2 +1,0 @@
-Phoenix Suns,120,-10,45.3,49,false
-Boston Celtics,130,10,46.8,50,true

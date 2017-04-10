@@ -1,2 +1,0 @@
-Utah Jazz,102,11,49.4,45,true
-Miami Heat,91,-11,46.9,39,false

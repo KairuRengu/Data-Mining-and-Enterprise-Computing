@@ -1,2 +1,0 @@
-New York Knicks,87,-28,35.1,57,false
-Boston Celtics,115,28,38.9,53,true

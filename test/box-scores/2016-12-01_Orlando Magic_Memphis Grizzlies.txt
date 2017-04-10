@@ -1,2 +1,0 @@
-Orlando Magic,94,-1,44.6,42,false
-Memphis Grizzlies,95,1,41.8,39,true

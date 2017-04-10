@@ -1,2 +1,0 @@
-Charlotte Hornets,85,-5,42.1,44,false
-Toronto Raptors,90,5,38.1,46,true

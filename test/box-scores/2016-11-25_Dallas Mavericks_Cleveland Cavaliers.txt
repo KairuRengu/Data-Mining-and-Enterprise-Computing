@@ -1,2 +1,0 @@
-Dallas Mavericks,90,-38,40.7,39,false
-Cleveland Cavaliers,128,38,50.6,47,true

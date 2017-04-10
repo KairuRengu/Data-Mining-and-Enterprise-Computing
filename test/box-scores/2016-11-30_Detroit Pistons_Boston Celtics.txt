@@ -1,2 +1,0 @@
-Detroit Pistons,121,7,55.2,52,true
-Boston Celtics,114,-7,44.0,33,false

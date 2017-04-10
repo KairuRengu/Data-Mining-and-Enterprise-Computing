@@ -1,2 +1,0 @@
-Charlotte Hornets,116,-5,41.2,52,false
-New Orleans Pelicans,121,5,43.9,53,true

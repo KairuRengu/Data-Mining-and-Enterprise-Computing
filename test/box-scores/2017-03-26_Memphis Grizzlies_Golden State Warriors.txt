@@ -1,2 +1,0 @@
-Memphis Grizzlies,94,-12,44.7,37,false
-Golden State Warriors,106,12,54.9,37,true

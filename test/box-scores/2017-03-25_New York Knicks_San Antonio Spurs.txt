@@ -1,2 +1,0 @@
-New York Knicks,98,-8,47.1,45,false
-San Antonio Spurs,106,8,45.5,50,true

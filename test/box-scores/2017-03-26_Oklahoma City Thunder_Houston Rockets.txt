@@ -1,2 +1,0 @@
-Oklahoma City Thunder,125,-12,50.0,41,false
-Houston Rockets,137,12,63.3,36,true

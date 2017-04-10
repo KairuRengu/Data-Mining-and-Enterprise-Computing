@@ -1,2 +1,0 @@
-Toronto Raptors,111,-10,38.8,45,false
-Golden State Warriors,121,10,56.8,51,true

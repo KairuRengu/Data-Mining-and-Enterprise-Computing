@@ -1,2 +1,0 @@
-Milwaukee Bucks,103,3,52.6,35,true
-Boston Celtics,100,-3,39.8,42,false

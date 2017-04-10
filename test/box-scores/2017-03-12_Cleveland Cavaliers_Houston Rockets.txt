@@ -1,2 +1,0 @@
-Cleveland Cavaliers,112,-5,52.5,38,false
-Houston Rockets,117,5,42.7,52,true

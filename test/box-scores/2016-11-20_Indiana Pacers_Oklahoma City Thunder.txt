@@ -1,2 +1,0 @@
-Indiana Pacers,115,4,44.9,51,true
-Oklahoma City Thunder,111,-4,43.6,49,false

@@ -1,2 +1,0 @@
-Orlando Magic,92,-30,37.2,49,false
-Golden State Warriors,122,30,57.5,47,true

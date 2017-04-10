@@ -1,2 +1,0 @@
-Memphis Grizzlies,110,3,50.7,34,true
-Miami Heat,107,-3,49.4,39,false

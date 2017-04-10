@@ -1,2 +1,0 @@
-Phoenix Suns,105,-15,42.4,44,false
-Philadelphia 76ers,120,15,52.3,44,true

@@ -1,2 +1,0 @@
-Boston Celtics,105,10,45.6,37,true
-Miami Heat,95,-10,52.2,41,false

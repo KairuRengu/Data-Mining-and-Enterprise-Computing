@@ -1,2 +1,0 @@
-Los Angeles Lakers,96,6,40.7,60,true
-Chicago Bulls,90,-6,35.2,46,false

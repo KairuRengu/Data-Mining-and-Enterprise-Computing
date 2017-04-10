@@ -1,2 +1,0 @@
-Los Angeles Lakers,101,-36,37.6,36,false
-Phoenix Suns,137,36,55.7,59,true

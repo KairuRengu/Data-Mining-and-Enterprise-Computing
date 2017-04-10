@@ -1,2 +1,0 @@
-San Antonio Spurs,91,-4,40.2,43,false
-Chicago Bulls,95,4,43.8,51,true

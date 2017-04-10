@@ -1,2 +1,0 @@
-LA Clippers,122,-5,42.2,57,false
-Brooklyn Nets,127,5,43.3,53,true

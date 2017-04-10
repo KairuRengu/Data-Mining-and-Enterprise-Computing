@@ -1,2 +1,0 @@
-Phoenix Suns,92,5,45.2,44,true
-Orlando Magic,87,-5,36.3,44,false

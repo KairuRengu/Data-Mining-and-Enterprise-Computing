@@ -1,2 +1,0 @@
-Cleveland Cavaliers,135,5,54.7,33,true
-Atlanta Hawks,130,-5,53.8,43,false

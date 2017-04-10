@@ -1,2 +1,0 @@
-Boston Celtics,99,-6,40.5,41,false
-Philadelphia 76ers,105,6,46.6,43,true

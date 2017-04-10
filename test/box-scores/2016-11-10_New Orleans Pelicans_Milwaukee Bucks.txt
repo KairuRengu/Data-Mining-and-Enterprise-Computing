@@ -1,2 +1,0 @@
-New Orleans Pelicans,112,6,43.8,47,true
-Milwaukee Bucks,106,-6,44.0,48,false

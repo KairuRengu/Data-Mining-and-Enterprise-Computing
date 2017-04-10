@@ -1,2 +1,0 @@
-Utah Jazz,82,9,45.5,42,true
-Memphis Grizzlies,73,-9,30.1,48,false

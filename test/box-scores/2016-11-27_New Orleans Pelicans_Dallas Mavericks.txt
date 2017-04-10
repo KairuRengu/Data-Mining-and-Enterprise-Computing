@@ -1,2 +1,0 @@
-New Orleans Pelicans,81,-10,39.0,42,false
-Dallas Mavericks,91,10,41.6,46,true

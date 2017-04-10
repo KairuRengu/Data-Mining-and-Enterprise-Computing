@@ -1,2 +1,0 @@
-Los Angeles Lakers,80,-33,34.4,46,false
-Toronto Raptors,113,33,54.2,44,true

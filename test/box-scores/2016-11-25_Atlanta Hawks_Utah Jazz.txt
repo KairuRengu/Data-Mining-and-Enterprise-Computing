@@ -1,2 +1,0 @@
-Atlanta Hawks,68,-27,31.3,40,false
-Utah Jazz,95,27,43.8,55,true

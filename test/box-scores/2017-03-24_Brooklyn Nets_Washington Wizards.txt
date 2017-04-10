@@ -1,2 +1,0 @@
-Brooklyn Nets,108,-21,52.4,38,false
-Washington Wizards,129,21,50.5,46,true

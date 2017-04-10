@@ -1,2 +1,0 @@
-Portland Trail Blazers,105,10,45.0,42,true
-Dallas Mavericks,95,-10,41.0,44,false

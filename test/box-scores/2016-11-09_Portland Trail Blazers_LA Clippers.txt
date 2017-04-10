@@ -1,2 +1,0 @@
-Portland Trail Blazers,80,-31,35.2,47,false
-LA Clippers,111,31,43.7,55,true

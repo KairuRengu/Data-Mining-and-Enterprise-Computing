@@ -1,2 +1,0 @@
-Minnesota Timberwolves,105,-18,50.0,28,false
-Miami Heat,123,18,58.8,40,true

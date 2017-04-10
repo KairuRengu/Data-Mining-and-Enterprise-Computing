@@ -1,2 +1,0 @@
-Milwaukee Bucks,73,-23,32.9,48,false
-Miami Heat,96,23,40.2,59,true

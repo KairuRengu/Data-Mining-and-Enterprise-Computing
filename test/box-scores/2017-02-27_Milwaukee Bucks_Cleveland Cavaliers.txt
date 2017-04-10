@@ -1,2 +1,0 @@
-Milwaukee Bucks,95,-7,44.6,33,false
-Cleveland Cavaliers,102,7,50.0,45,true

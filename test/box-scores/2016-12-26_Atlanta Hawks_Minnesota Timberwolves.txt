@@ -1,2 +1,0 @@
-Atlanta Hawks,90,-14,42.2,46,false
-Minnesota Timberwolves,104,14,45.1,40,true

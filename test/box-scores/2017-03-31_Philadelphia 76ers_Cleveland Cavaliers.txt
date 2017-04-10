@@ -1,2 +1,0 @@
-Philadelphia 76ers,105,-17,48.8,42,false
-Cleveland Cavaliers,122,17,52.6,49,true

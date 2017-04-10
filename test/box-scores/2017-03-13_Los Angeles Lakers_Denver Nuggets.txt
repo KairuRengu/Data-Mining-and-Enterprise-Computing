@@ -1,2 +1,0 @@
-Los Angeles Lakers,101,-28,43.3,46,false
-Denver Nuggets,129,28,53.6,42,true

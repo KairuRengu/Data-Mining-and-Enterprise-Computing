@@ -1,2 +1,0 @@
-Detroit Pistons,88,-18,45.1,32,false
-Oklahoma City Thunder,106,18,50.6,43,true

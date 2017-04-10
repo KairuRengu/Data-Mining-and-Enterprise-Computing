@@ -1,2 +1,0 @@
-Memphis Grizzlies,80,16,40.3,48,true
-Dallas Mavericks,64,-16,28.8,45,false

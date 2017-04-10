@@ -1,2 +1,0 @@
-LA Clippers,113,19,47.2,47,true
-Cleveland Cavaliers,94,-19,40.6,36,false

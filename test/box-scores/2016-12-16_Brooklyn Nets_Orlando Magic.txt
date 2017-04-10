@@ -1,2 +1,0 @@
-Brooklyn Nets,111,-7,47.0,45,false
-Orlando Magic,118,7,40.2,49,true

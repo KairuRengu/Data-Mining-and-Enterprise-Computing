@@ -1,2 +1,0 @@
-Oklahoma City Thunder,95,-19,37.9,43,false
-Portland Trail Blazers,114,19,53.8,37,true

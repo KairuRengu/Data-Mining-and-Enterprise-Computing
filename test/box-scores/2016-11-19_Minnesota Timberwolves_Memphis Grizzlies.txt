@@ -1,2 +1,0 @@
-Minnesota Timberwolves,71,-22,39.1,34,false
-Memphis Grizzlies,93,22,38.2,46,true

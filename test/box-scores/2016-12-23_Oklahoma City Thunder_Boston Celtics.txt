@@ -1,2 +1,0 @@
-Oklahoma City Thunder,117,5,51.3,44,true
-Boston Celtics,112,-5,44.1,39,false

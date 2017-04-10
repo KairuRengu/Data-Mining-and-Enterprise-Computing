@@ -1,2 +1,0 @@
-Atlanta Hawks,99,-8,45.7,36,false
-San Antonio Spurs,107,8,48.1,44,true

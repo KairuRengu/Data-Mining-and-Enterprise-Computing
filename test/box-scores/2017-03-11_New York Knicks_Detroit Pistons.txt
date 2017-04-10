@@ -1,2 +1,0 @@
-New York Knicks,92,-20,43.9,44,false
-Detroit Pistons,112,20,47.9,51,true

@@ -1,2 +1,0 @@
-Boston Celtics,99,6,45.2,39,true
-Minnesota Timberwolves,93,-6,41.9,51,false

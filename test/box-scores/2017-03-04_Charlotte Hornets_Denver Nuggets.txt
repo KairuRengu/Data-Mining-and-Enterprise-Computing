@@ -1,2 +1,0 @@
-Charlotte Hornets,112,10,45.6,43,true
-Denver Nuggets,102,-10,45.0,45,false

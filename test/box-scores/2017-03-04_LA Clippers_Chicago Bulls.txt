@@ -1,2 +1,0 @@
-LA Clippers,101,10,48.2,37,true
-Chicago Bulls,91,-10,42.2,45,false

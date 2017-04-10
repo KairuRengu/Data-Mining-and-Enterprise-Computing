@@ -1,2 +1,0 @@
-Philadelphia 76ers,95,-27,41.9,38,false
-Toronto Raptors,122,27,54.5,42,true

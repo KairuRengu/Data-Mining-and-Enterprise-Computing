@@ -1,2 +1,0 @@
-Minnesota Timberwolves,90,-7,39.3,55,false
-San Antonio Spurs,97,7,40.4,49,true

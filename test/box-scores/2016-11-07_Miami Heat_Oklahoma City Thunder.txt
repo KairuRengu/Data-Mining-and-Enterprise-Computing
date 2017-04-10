@@ -1,2 +1,0 @@
-Miami Heat,85,-12,36.9,41,false
-Oklahoma City Thunder,97,12,43.5,47,true

@@ -1,2 +1,0 @@
-Detroit Pistons,98,-7,41.7,43,false
-Atlanta Hawks,105,7,44.3,44,true

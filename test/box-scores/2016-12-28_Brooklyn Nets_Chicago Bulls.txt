@@ -1,2 +1,0 @@
-Brooklyn Nets,99,-2,43.0,37,false
-Chicago Bulls,101,2,39.8,54,true

@@ -1,2 +1,0 @@
-Indiana Pacers,103,-8,46.4,38,false
-Dallas Mavericks,111,8,48.8,33,true

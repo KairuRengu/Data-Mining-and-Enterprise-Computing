@@ -1,2 +1,0 @@
-Milwaukee Bucks,93,3,42.2,49,true
-Portland Trail Blazers,90,-3,42.2,49,false

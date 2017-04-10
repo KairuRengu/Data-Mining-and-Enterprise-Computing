@@ -1,2 +1,0 @@
-Orlando Magic,112,-19,48.9,33,false
-Toronto Raptors,131,19,59.0,43,true

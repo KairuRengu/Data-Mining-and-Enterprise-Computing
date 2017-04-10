@@ -1,2 +1,0 @@
-Toronto Raptors,112,10,51.8,35,true
-Oklahoma City Thunder,102,-10,41.9,39,false

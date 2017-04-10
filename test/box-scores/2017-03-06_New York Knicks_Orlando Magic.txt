@@ -1,2 +1,0 @@
-New York Knicks,113,8,46.5,45,true
-Orlando Magic,105,-8,47.1,42,false

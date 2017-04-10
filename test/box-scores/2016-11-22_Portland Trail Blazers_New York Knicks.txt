@@ -1,2 +1,0 @@
-Portland Trail Blazers,103,-4,44.2,44,false
-New York Knicks,107,4,46.9,43,true

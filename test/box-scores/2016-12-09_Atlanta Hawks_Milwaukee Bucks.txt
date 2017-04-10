@@ -1,2 +1,0 @@
-Atlanta Hawks,114,4,47.6,46,true
-Milwaukee Bucks,110,-4,46.8,43,false

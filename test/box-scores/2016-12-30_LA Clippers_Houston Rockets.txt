@@ -1,2 +1,0 @@
-LA Clippers,116,-24,46.9,38,false
-Houston Rockets,140,24,55.6,45,true

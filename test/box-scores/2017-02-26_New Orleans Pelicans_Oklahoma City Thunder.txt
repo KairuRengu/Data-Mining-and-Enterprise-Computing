@@ -1,2 +1,0 @@
-New Orleans Pelicans,110,-8,45.0,35,false
-Oklahoma City Thunder,118,8,47.7,53,true

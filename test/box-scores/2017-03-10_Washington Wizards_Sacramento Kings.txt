@@ -1,2 +1,0 @@
-Washington Wizards,130,8,50.0,52,true
-Sacramento Kings,122,-8,47.8,40,false

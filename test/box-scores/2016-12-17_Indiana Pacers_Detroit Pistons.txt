@@ -1,2 +1,0 @@
-Indiana Pacers,105,15,48.2,51,true
-Detroit Pistons,90,-15,38.1,40,false

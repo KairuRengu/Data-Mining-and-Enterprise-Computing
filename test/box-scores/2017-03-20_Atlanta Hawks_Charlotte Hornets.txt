@@ -1,2 +1,0 @@
-Atlanta Hawks,90,-15,44.0,45,false
-Charlotte Hornets,105,15,50.0,33,true

@@ -1,2 +1,0 @@
-New York Knicks,103,3,42.9,54,true
-Sacramento Kings,100,-3,40.2,39,false

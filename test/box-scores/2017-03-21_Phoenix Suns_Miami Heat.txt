@@ -1,2 +1,0 @@
-Phoenix Suns,97,-15,43.9,41,false
-Miami Heat,112,15,43.8,49,true

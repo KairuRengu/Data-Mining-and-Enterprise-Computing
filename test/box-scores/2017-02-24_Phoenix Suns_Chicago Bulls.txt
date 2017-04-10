@@ -1,2 +1,0 @@
-Phoenix Suns,121,-7,52.7,43,false
-Chicago Bulls,128,7,46.9,46,true

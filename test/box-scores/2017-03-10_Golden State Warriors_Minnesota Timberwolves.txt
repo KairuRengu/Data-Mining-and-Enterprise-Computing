@@ -1,2 +1,0 @@
-Golden State Warriors,102,-1,46.6,43,false
-Minnesota Timberwolves,103,1,44.3,46,true

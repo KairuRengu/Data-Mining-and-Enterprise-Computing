@@ -1,2 +1,0 @@
-Charlotte Hornets,103,-17,39.3,34,false
-Phoenix Suns,120,17,59.7,42,true

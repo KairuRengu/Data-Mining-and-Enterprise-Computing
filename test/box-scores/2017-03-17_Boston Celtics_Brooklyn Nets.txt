@@ -1,2 +1,0 @@
-Boston Celtics,98,3,40.0,51,true
-Brooklyn Nets,95,-3,36.1,41,false

@@ -1,2 +1,0 @@
-Memphis Grizzlies,111,4,48.8,43,true
-LA Clippers,107,-4,45.7,35,false

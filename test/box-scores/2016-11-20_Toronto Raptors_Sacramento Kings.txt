@@ -1,2 +1,0 @@
-Toronto Raptors,99,-3,40.0,48,false
-Sacramento Kings,102,3,44.4,37,true

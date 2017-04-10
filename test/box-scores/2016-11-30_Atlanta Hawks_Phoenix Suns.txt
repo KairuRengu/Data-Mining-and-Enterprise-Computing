@@ -1,2 +1,0 @@
-Atlanta Hawks,107,-2,50.6,40,false
-Phoenix Suns,109,2,44.9,41,true

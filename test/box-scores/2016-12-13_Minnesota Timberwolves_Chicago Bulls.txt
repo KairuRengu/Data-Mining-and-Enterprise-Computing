@@ -1,2 +1,0 @@
-Minnesota Timberwolves,99,5,44.2,48,true
-Chicago Bulls,94,-5,43.7,42,false

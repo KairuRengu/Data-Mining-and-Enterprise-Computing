@@ -1,2 +1,0 @@
-New Orleans Pelicans,120,1,39.2,49,true
-Phoenix Suns,119,-1,45.8,57,false

@@ -1,2 +1,0 @@
-San Antonio Spurs,96,-8,44.0,42,false
-Memphis Grizzlies,104,8,42.1,35,true

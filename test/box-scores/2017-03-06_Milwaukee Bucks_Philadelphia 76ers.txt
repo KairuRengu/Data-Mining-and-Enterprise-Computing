@@ -1,2 +1,0 @@
-Milwaukee Bucks,112,14,49.4,41,true
-Philadelphia 76ers,98,-14,43.8,42,false

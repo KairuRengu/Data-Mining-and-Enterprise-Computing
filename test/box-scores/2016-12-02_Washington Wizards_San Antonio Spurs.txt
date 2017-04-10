@@ -1,2 +1,0 @@
-Washington Wizards,105,-2,50.6,43,false
-San Antonio Spurs,107,2,48.8,37,true

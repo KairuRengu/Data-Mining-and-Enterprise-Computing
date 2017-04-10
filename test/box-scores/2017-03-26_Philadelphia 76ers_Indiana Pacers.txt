@@ -1,2 +1,0 @@
-Philadelphia 76ers,94,-13,39.8,48,false
-Indiana Pacers,107,13,42.7,51,true

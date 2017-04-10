@@ -1,2 +1,0 @@
-Indiana Pacers,109,15,44.9,49,true
-Phoenix Suns,94,-15,40.0,40,false

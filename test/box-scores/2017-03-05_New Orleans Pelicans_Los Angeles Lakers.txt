@@ -1,2 +1,0 @@
-New Orleans Pelicans,105,8,40.4,44,true
-Los Angeles Lakers,97,-8,45.8,49,false

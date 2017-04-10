@@ -1,2 +1,0 @@
-Philadelphia 76ers,118,2,51.9,34,true
-Los Angeles Lakers,116,-2,50.0,40,false

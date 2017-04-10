@@ -1,2 +1,0 @@
-Toronto Raptors,115,13,48.9,38,true
-Houston Rockets,102,-13,48.7,39,false

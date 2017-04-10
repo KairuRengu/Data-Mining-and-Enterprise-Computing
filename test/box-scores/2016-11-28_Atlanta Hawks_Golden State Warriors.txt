@@ -1,2 +1,0 @@
-Atlanta Hawks,100,-5,42.4,50,false
-Golden State Warriors,105,5,43.5,41,true

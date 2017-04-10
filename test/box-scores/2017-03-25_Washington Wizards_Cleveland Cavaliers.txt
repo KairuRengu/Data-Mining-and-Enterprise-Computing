@@ -1,2 +1,0 @@
-Washington Wizards,127,12,59.8,40,true
-Cleveland Cavaliers,115,-12,49.4,32,false

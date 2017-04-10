@@ -1,2 +1,0 @@
-Atlanta Hawks,99,7,42.5,47,true
-Philadelphia 76ers,92,-7,41.4,40,false

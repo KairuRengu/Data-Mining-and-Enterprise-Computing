@@ -1,2 +1,0 @@
-New Orleans Pelicans,104,-15,47.4,34,false
-Portland Trail Blazers,119,15,47.0,52,true

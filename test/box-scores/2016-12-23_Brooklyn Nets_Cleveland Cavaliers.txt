@@ -1,2 +1,0 @@
-Brooklyn Nets,99,-20,44.7,44,false
-Cleveland Cavaliers,119,20,45.5,51,true

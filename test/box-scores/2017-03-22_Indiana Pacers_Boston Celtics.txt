@@ -1,2 +1,0 @@
-Indiana Pacers,100,-9,43.7,45,false
-Boston Celtics,109,9,51.2,43,true

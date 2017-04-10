@@ -1,2 +1,0 @@
-Chicago Bulls,120,-2,46.7,39,false
-Toronto Raptors,122,2,49.5,50,true

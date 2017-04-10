@@ -1,2 +1,0 @@
-Miami Heat,87,-9,38.6,43,false
-Toronto Raptors,96,9,44.0,50,true

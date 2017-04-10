@@ -1,2 +1,0 @@
-Houston Rockets,114,8,51.9,37,true
-Washington Wizards,106,-8,41.5,45,false

@@ -1,2 +1,0 @@
-Philadelphia 76ers,86,-24,37.3,40,false
-Minnesota Timberwolves,110,24,51.2,48,true

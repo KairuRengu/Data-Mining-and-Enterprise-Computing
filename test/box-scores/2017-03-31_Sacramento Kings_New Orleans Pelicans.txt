@@ -1,2 +1,0 @@
-Sacramento Kings,89,-28,38.9,52,false
-New Orleans Pelicans,117,28,48.4,45,true

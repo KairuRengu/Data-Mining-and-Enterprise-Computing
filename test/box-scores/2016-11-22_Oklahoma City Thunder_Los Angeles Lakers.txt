@@ -1,2 +1,0 @@
-Oklahoma City Thunder,109,-2,48.9,40,false
-Los Angeles Lakers,111,2,50.6,35,true

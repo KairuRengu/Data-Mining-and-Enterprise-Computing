@@ -1,2 +1,0 @@
-Dallas Mavericks,90,2,42.5,42,true
-LA Clippers,88,-2,45.9,41,false

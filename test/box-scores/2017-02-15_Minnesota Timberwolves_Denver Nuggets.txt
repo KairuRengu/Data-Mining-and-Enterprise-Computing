@@ -1,2 +1,0 @@
-Minnesota Timberwolves,112,13,47.7,45,true
-Denver Nuggets,99,-13,40.4,49,false

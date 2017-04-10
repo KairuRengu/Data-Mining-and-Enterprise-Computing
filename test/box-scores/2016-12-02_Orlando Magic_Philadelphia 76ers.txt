@@ -1,2 +1,0 @@
-Orlando Magic,105,17,47.4,47,true
-Philadelphia 76ers,88,-17,37.9,46,false

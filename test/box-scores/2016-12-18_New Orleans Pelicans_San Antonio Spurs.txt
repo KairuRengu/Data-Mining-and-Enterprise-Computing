@@ -1,2 +1,0 @@
-New Orleans Pelicans,100,-13,46.1,37,false
-San Antonio Spurs,113,13,48.8,49,true

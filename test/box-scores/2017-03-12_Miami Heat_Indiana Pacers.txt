@@ -1,2 +1,0 @@
-Miami Heat,98,-4,41.5,54,false
-Indiana Pacers,102,4,42.7,46,true

@@ -1,2 +1,0 @@
-Utah Jazz,115,7,53.9,45,true
-Houston Rockets,108,-7,44.3,31,false

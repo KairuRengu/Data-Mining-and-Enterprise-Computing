@@ -1,2 +1,0 @@
-Boston Celtics,115,20,51.2,46,true
-Los Angeles Lakers,95,-20,42.5,34,false

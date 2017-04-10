@@ -1,2 +1,0 @@
-New York Knicks,105,-9,44.9,48,false
-LA Clippers,114,9,49.4,43,true

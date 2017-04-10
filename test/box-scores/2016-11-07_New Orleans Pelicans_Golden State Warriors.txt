@@ -1,2 +1,0 @@
-New Orleans Pelicans,106,-10,48.8,43,false
-Golden State Warriors,116,10,50.0,38,true
