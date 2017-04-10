@@ -8,6 +8,7 @@ import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -23,39 +24,88 @@ public class Dmec {
         
         
         Dmec dmec = new Dmec();
-        
-        //dmec.genTrainingFile("Raptors", "Bulls");
-        
-        dmec.doCART("Raptors", "Bulls");
+        dmec.doCART("Brooklyn Nets", "Cleveland Cavaliers");
 
-        dmec.doCARTPrediction(testingFilePath);
+        //dmec.doCARTPrediction(testingFilePath);
+        
+        System.out.println(dmec.doCARTPrediction(testingFilePath));
     }
     
-    public void doCARTPrediction(String testingFile) {
-        
+    public double doCARTPrediction(String testingFile) {
+        Double winPercentA = 100.0;
+        int aGreaterThanBCount = 0;
+        int aEqualToBCount = 0;
         BufferedReader br = null;
-            try {
-                br = new BufferedReader(new FileReader(testingFile));
-                
-                br.readLine();
-                br.readLine();
-                String line = br.readLine();
-                
-                
-                
-                
-            } catch (IOException e) {
-                System.err.println("Failed while classifying");
-                System.exit(1);
-            } finally {
-                if (br != null) {
-                    try {
-                        br.close();
-                    } catch (IOException ex) {
-                        Logger.getLogger(Dmec.class.getName()).log(Level.SEVERE, null, ex);
-                    }
+        try {
+            br = new BufferedReader(new FileReader(testingFile));
+
+            br.readLine();
+            br.readLine();
+            String[] attrsA = br.readLine().split(",");
+            String[] attrsB = br.readLine().split(",");
+            System.out.println(Arrays.toString(attrsA));
+            for (int i = 0; i < attrsA.length-1; i ++) {
+                if (Double.parseDouble(attrsA[i]) > Double.parseDouble(attrsB[i])) { // A > B
+                    aGreaterThanBCount ++;
+                }else if (Double.parseDouble(attrsA[i]) == Double.parseDouble(attrsB[i])) { // A = B
+                    aEqualToBCount ++;
                 }
             }
+
+            if (aGreaterThanBCount == 4) {
+                winPercentA = 99.0;
+            } else if (aGreaterThanBCount == 3) {
+                if (aEqualToBCount == 1) {
+                    winPercentA = 90.0;
+                } else {
+                    winPercentA = 75.0;
+                }
+            } else if (aGreaterThanBCount == 2) {
+                if (aEqualToBCount == 2) {
+                    winPercentA = 75.0;
+                } else if (aEqualToBCount == 1) {
+                    winPercentA = 65.0;
+                } else {
+                    winPercentA = 51.0;
+                }
+            } else if (aGreaterThanBCount == 1) {
+                if (aEqualToBCount == 3) {
+                    winPercentA = 60.0;
+                } else if (aEqualToBCount == 2) {
+                    winPercentA = 49.0;
+                } else if (aEqualToBCount == 1) {
+                    winPercentA = 35.0;
+                } else {
+                    winPercentA = 25.0;
+                }
+            } else if (aGreaterThanBCount == 0) {
+                if (aEqualToBCount == 4) {
+                    winPercentA = 49.0;
+                } else if (aEqualToBCount == 3) {
+                    winPercentA = 40.0;
+                } else if (aEqualToBCount == 2) {
+                    winPercentA = 25.0;
+                } else if (aEqualToBCount == 1) {
+                    winPercentA = 15.0;
+                } else {
+                    winPercentA = 1.00;
+                }
+            }
+
+        } catch (IOException e) {
+            System.err.println("Failed while classifying");
+            System.exit(1);
+        } finally {
+            if (br != null) {
+                try {
+                    br.close();
+                } catch (IOException ex) {
+                    Logger.getLogger(Dmec.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+        }
+        
+        return winPercentA;
     }
     
     public void genTrainingFile(String team1, String team2) {
@@ -109,7 +159,7 @@ public class Dmec {
             try {
                 br = new BufferedReader(new FileReader(statsFiles[i]));
 
-                String line = br.readLine();
+                String line;
                 
                 // get line of file corresponding to given team and store in line
                 while (!((line = br.readLine()).split(",")[0]).equals(team)) {
@@ -168,7 +218,7 @@ public class Dmec {
      * @return list of paths to files where the given team played
      */
     private File[] getAllFiles(String teamName) {
-        File dir = new File("C:\\Users\\The Boss\\Documents\\GitHub\\Data-Mining-and-Enterprise-Computing\\test\\scraped");
+        File dir = new File("C:\\Users\\The Boss\\Documents\\GitHub\\Data-Mining-and-Enterprise-Computing\\test\\box-scores");
         File[] files = dir.listFiles(new FilenameFilter() {
             @Override
             public boolean accept(File dir, String name) {
