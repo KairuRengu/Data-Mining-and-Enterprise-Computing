@@ -1,0 +1,2 @@
+Washington Wizards,91,-10,43.7,45,false
+Houston Rockets,101,10,43.0,41,true

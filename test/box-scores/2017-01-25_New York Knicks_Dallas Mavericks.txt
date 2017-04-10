@@ -1,0 +1,2 @@
+New York Knicks,95,-8,42.4,55,false
+Dallas Mavericks,103,8,47.0,36,true

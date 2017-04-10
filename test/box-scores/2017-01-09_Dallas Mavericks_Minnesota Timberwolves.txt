@@ -1,0 +1,2 @@
+Dallas Mavericks,92,-9,46.2,25,false
+Minnesota Timberwolves,101,9,56.3,42,true

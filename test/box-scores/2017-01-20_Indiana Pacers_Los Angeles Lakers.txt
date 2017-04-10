@@ -1,0 +1,2 @@
+Indiana Pacers,95,-13,42.5,37,false
+Los Angeles Lakers,108,13,47.1,51,true

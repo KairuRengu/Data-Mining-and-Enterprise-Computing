@@ -1,0 +1,2 @@
+Cleveland Cavaliers,120,12,50.6,39,true
+Sacramento Kings,108,-12,52.5,42,false

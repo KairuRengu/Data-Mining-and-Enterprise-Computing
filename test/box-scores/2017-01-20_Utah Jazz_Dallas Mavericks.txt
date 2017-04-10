@@ -1,0 +1,2 @@
+Utah Jazz,112,5,45.8,53,true
+Dallas Mavericks,107,-5,44.8,43,false

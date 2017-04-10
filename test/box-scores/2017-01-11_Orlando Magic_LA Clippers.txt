@@ -1,0 +1,2 @@
+Orlando Magic,96,-9,42.4,35,false
+LA Clippers,105,9,51.3,49,true

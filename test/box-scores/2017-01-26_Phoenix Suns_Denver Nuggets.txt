@@ -1,0 +1,2 @@
+Phoenix Suns,120,-7,53.9,28,false
+Denver Nuggets,127,7,51.2,46,true

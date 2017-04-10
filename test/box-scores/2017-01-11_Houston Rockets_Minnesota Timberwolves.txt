@@ -1,0 +1,2 @@
+Houston Rockets,105,-14,41.4,32,false
+Minnesota Timberwolves,119,14,54.3,49,true

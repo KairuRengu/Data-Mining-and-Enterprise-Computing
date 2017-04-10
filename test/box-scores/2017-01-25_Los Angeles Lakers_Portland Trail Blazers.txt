@@ -1,0 +1,2 @@
+Los Angeles Lakers,98,-7,39.4,51,false
+Portland Trail Blazers,105,7,47.8,49,true

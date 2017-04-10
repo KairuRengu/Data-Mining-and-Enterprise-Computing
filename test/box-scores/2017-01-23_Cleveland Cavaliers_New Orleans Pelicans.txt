@@ -1,0 +1,2 @@
+Cleveland Cavaliers,122,-2,46.2,45,false
+New Orleans Pelicans,124,2,49.4,42,true

@@ -1,0 +1,2 @@
+LA Clippers,98,-46,43.9,32,false
+Golden State Warriors,144,46,62.0,48,true

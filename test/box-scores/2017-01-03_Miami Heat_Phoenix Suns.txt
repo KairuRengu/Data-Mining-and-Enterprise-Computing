@@ -1,0 +1,2 @@
+Miami Heat,90,-9,39.6,43,false
+Phoenix Suns,99,9,46.8,49,true

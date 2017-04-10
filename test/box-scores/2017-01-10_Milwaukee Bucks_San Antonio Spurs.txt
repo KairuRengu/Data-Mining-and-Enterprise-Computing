@@ -1,0 +1,2 @@
+Milwaukee Bucks,109,2,52.4,38,true
+San Antonio Spurs,107,-2,47.7,41,false

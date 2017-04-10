@@ -1,0 +1,2 @@
+Utah Jazz,106,5,46.1,46,true
+Phoenix Suns,101,-5,49.4,39,false

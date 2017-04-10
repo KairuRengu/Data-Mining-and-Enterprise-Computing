@@ -1,0 +1,2 @@
+Los Angeles Lakers,91,-2,40.2,47,false
+Minnesota Timberwolves,93,2,38.8,48,true

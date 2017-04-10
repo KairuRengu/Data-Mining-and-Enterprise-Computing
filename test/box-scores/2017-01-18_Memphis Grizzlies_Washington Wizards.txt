@@ -1,0 +1,2 @@
+Memphis Grizzlies,101,-3,39.8,45,false
+Washington Wizards,104,3,45.0,45,true

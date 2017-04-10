@@ -1,0 +1,2 @@
+Cleveland Cavaliers,91,-35,35.2,35,false
+Golden State Warriors,126,35,50.5,58,true

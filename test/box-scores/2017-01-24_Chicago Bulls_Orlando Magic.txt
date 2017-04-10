@@ -1,0 +1,2 @@
+Chicago Bulls,100,8,45.5,44,true
+Orlando Magic,92,-8,41.2,48,false

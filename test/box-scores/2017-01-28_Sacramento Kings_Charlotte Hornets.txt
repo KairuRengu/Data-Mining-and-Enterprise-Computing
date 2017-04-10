@@ -1,0 +1,2 @@
+Sacramento Kings,109,3,51.9,38,true
+Charlotte Hornets,106,-3,48.0,34,false

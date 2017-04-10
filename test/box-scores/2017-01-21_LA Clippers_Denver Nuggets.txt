@@ -1,0 +1,2 @@
+LA Clippers,98,-25,41.7,35,false
+Denver Nuggets,123,25,52.9,45,true

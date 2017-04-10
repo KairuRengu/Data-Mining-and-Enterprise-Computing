@@ -1,0 +1,2 @@
+Oklahoma City Thunder,82,-8,36.4,45,false
+Milwaukee Bucks,90,8,37.8,56,true

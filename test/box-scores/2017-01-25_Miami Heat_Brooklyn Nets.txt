@@ -1,0 +1,2 @@
+Miami Heat,109,3,48.2,40,true
+Brooklyn Nets,106,-3,43.8,33,false

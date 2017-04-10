@@ -24,7 +24,7 @@ public class Dmec {
         
         
         Dmec dmec = new Dmec();
-        dmec.doCART("Brooklyn Nets", "Cleveland Cavaliers");
+        dmec.doCART("Toronto Raptors", "Denver Nuggets");
 
         //dmec.doCARTPrediction(testingFilePath);
         
@@ -175,7 +175,11 @@ public class Dmec {
                 //team,points,+/-,rebounds,fieldGoalPercent
                 overallScore.put("points", (Double)overallScore.get("points") + Double.parseDouble(line.split(",")[1])); // points
                 overallScore.put("+/-", (Double)overallScore.get("+/-") + Double.parseDouble(line.split(",")[2])); // +/-
-                overallScore.put("rebounds", (Double)overallScore.get("rebounds") + Double.parseDouble(line.split(",")[3])); // rebounds
+                if (line.split(",")[3].equals("-")) {
+                    overallScore.put("rebounds", 0.0);
+                } else {
+                    overallScore.put("rebounds", (Double)overallScore.get("rebounds") + Double.parseDouble(line.split(",")[3])); // rebounds
+                }
                 overallScore.put("fieldGoalPercent", (Double)overallScore.get("fieldGoalPercent") + Double.parseDouble(line.split(",")[4])); // fieldGoalPercent
                 
 

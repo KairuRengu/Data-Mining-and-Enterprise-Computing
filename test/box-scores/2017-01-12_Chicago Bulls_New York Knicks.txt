@@ -1,0 +1,2 @@
+Chicago Bulls,89,-15,39.3,43,false
+New York Knicks,104,15,47.8,48,true

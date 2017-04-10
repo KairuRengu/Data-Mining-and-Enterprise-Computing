@@ -1,0 +1,2 @@
+Dallas Mavericks,98,-11,45.2,36,false
+Oklahoma City Thunder,109,11,51.4,43,true

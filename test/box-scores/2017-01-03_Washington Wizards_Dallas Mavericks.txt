@@ -1,0 +1,2 @@
+Washington Wizards,105,-8,44.6,38,false
+Dallas Mavericks,113,8,47.4,42,true

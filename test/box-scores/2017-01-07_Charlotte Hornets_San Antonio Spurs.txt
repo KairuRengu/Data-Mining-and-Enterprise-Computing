@@ -1,0 +1,2 @@
+Charlotte Hornets,85,-17,40.0,48,false
+San Antonio Spurs,102,17,40.4,43,true

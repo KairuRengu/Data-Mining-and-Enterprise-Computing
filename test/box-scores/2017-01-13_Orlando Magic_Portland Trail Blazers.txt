@@ -1,0 +1,2 @@
+Orlando Magic,115,6,49.4,45,true
+Portland Trail Blazers,109,-6,40.2,43,false

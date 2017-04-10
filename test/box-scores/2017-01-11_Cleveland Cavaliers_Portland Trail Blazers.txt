@@ -1,0 +1,2 @@
+Cleveland Cavaliers,86,-16,34.1,48,false
+Portland Trail Blazers,102,16,43.0,51,true

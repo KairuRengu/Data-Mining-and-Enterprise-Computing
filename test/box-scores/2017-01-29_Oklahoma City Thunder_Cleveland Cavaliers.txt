@@ -1,0 +1,2 @@
+Oklahoma City Thunder,91,-16,37.0,55,false
+Cleveland Cavaliers,107,16,44.6,51,true

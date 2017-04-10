@@ -1,0 +1,2 @@
+Denver Nuggets,119,-8,47.5,48,false
+Golden State Warriors,127,8,52.6,43,true

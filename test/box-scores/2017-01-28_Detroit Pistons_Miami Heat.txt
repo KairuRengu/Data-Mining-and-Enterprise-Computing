@@ -1,0 +1,2 @@
+Detroit Pistons,103,-13,51.7,42,false
+Miami Heat,116,13,52.5,38,true

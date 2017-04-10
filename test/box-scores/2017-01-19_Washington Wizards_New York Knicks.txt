@@ -1,0 +1,2 @@
+Washington Wizards,113,3,50.0,40,true
+New York Knicks,110,-3,46.7,41,false

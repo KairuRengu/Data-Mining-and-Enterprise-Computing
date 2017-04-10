@@ -1,0 +1,2 @@
+Oklahoma City Thunder,122,4,44.4,44,true
+Sacramento Kings,118,-4,45.7,44,false

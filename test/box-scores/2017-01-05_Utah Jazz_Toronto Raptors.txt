@@ -1,0 +1,2 @@
+Utah Jazz,93,-8,46.6,46,false
+Toronto Raptors,101,8,39.6,45,true

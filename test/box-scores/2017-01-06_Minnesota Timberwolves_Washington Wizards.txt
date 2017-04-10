@@ -1,0 +1,2 @@
+Minnesota Timberwolves,105,-7,47.7,38,false
+Washington Wizards,112,7,58.2,33,true

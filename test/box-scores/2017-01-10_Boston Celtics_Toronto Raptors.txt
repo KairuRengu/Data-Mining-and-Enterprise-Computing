@@ -1,0 +1,2 @@
+Boston Celtics,106,-8,47.1,33,false
+Toronto Raptors,114,8,47.1,50,true

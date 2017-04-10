@@ -1,0 +1,2 @@
+Philadelphia 76ers,105,10,39.4,46,true
+Brooklyn Nets,95,-10,46.2,40,false

@@ -1,0 +1,2 @@
+Houston Rockets,119,24,51.3,46,true
+Memphis Grizzlies,95,-24,37.1,41,false

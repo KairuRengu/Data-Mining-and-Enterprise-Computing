@@ -1,0 +1,2 @@
+Minnesota Timberwolves,104,3,47.6,43,true
+LA Clippers,101,-3,48.3,41,false

@@ -1,0 +1,2 @@
+New York Knicks,116,5,49.4,40,true
+Milwaukee Bucks,111,-5,50.0,35,false

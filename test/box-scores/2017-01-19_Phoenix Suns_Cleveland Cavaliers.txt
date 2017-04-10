@@ -1,0 +1,2 @@
+Phoenix Suns,103,-15,43.5,46,false
+Cleveland Cavaliers,118,15,50.6,36,true
