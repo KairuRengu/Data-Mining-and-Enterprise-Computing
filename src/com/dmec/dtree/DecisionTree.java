@@ -19,8 +19,8 @@ public class DecisionTree {
      *
      * @param modelFilePath
      */
-    public DecisionTree(String modelFilePath) {
-        BufferedReader br;
+    public DecisionTree(String modelFilePath) throws IOException {
+        BufferedReader br = null;
         try {
             br = new BufferedReader(new FileReader(modelFilePath));
 
@@ -50,6 +50,10 @@ public class DecisionTree {
         } catch (IOException e) {
             System.err.println("Failed while inserting data into dataSet object");
             System.exit(1);
+        } finally {
+            if (br != null) {
+                br.close();
+            }
         }
     }
 
